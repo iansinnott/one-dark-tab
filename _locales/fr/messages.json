@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Afficher OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Afficher DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "onglet",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Envoyez l'onglet actuel sur OneTab",
+    "message": "Envoyez l'onglet actuel sur DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Apporter tous les onglets dans OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Apporter tous les onglets dans DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Vous ne possédez encore aucun onglet dans OneTab",
+    "message": "Vous ne possédez encore aucun onglet dans DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Lorsque vous avez plusieurs onglets ouverts, cliquez l'icône OneTab sur la barre d'outils de votre navigateur et tous vos onglets ouverts apparaîtront ici.",
+    "message": "Lorsque vous avez plusieurs onglets ouverts, cliquez l'icône DarkTab sur la barre d'outils de votre navigateur et tous vos onglets ouverts apparaîtront ici.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "La liste suivante des URLs peut également être réimportée dans OneTab sur cet ordinateur ou un autre",
+    "message": "La liste suivante des URLs peut également être réimportée dans DarkTab sur cet ordinateur ou un autre",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Une nouvelle fenêtre, à moins que OneTab soit le seul onglet dans la fenêtre actuelle",
+    "message": "Une nouvelle fenêtre, à moins que DarkTab soit le seul onglet dans la fenêtre actuelle",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Ne pas envoyer des onglets épinglés sur OneTab",
+    "message": "Ne pas envoyer des onglets épinglés sur DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Vous pouvez toujours envoyer manuellement un onglet épinglé sur OneTab par un clic de droite dans la page web pour accéder au menu OneTab, puis en cliquant sur 'Envoyer uniquement cet onglet sur OneTab'",
+    "message": "Vous pouvez toujours envoyer manuellement un onglet épinglé sur DarkTab par un clic de droite dans la page web pour accéder au menu DarkTab, puis en cliquant sur 'Envoyer uniquement cet onglet sur DarkTab'",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Autoriser les onglets épinglés à envoyer sur OneTab",
+    "message": "Autoriser les onglets épinglés à envoyer sur DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Remarque : Un onglet devient «épinglé» lorsque vous cliquez le bouton de droite sur l'onglet et cliquez sur \"Épingler l'onglet\". Certaines personnes aiment faire en sorte que des sites tels que Facebook ou Gmail soient épinglés afin qu'ils puissent facilement les localiser. OneTab se souviendra si un onglet a été épinglé lorsque vous le restaurez.",
+    "message": "Remarque : Un onglet devient «épinglé» lorsque vous cliquez le bouton de droite sur l'onglet et cliquez sur \"Épingler l'onglet\". Certaines personnes aiment faire en sorte que des sites tels que Facebook ou Gmail soient épinglés afin qu'ils puissent facilement les localiser. DarkTab se souviendra si un onglet a été épinglé lorsque vous le restaurez.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Afficher OneTab chaque fois que vous démarrez votre navigateur Web pour la première fois",
+    "message": "Afficher DarkTab chaque fois que vous démarrez votre navigateur Web pour la première fois",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Ne pas ouvrir automatiquement OneTab",
+    "message": "Ne pas ouvrir automatiquement DarkTab",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Pour ouvrir OneTab manuellement, utilisez le menu avec le clic de droite et choisissez 'Afficher OneTab'",
+    "message": "Pour ouvrir DarkTab manuellement, utilisez le menu avec le clic de droite et choisissez 'Afficher DarkTab'",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Ouvrir l(es) onglet(s) et le(s) supprimer de votre liste de OneTab",
+    "message": "Ouvrir l(es) onglet(s) et le(s) supprimer de votre liste de DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Vous pouvez toujours appuyer sur ctrl, cmd ou shift pour restaurer l(es) onglet(s) sans le(s) retirer de OneTab. Si vous définissez un de vos groupes d'onglets comme \"verrouillé\", alors les onglets ne seront pas retirés de OneTab sauf si vous déverrouillez d'abord ce groupe d'onglets.",
+    "message": "Vous pouvez toujours appuyer sur ctrl, cmd ou shift pour restaurer l(es) onglet(s) sans le(s) retirer de DarkTab. Si vous définissez un de vos groupes d'onglets comme \"verrouillé\", alors les onglets ne seront pas retirés de DarkTab sauf si vous déverrouillez d'abord ce groupe d'onglets.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Gardez-les dans votre liste OneTab",
+    "message": "Gardez-les dans votre liste DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Si OneTab contient déjà l'URL d'un onglet, il ne sera pas ajouté à nouveau. Cela ne s'applique que lorsque vous cliquez sur l'icône OneTab ou utilisez le menu du clic de droite pour envoyer plusieurs onglets sur OneTab. Si vous utilisez le menu OneTab avec le clic de droite pour envoyer seulement un onglet spécifique sur OneTab, alors le doublon sera autorisé pour cet onglet spécifique.",
+    "message": "Si DarkTab contient déjà l'URL d'un onglet, il ne sera pas ajouté à nouveau. Cela ne s'applique que lorsque vous cliquez sur l'icône DarkTab ou utilisez le menu du clic de droite pour envoyer plusieurs onglets sur DarkTab. Si vous utilisez le menu DarkTab avec le clic de droite pour envoyer seulement un onglet spécifique sur DarkTab, alors le doublon sera autorisé pour cet onglet spécifique.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Exclure DOMAIN.COM de OneTab",
+    "message": "Exclure DOMAIN.COM de DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Exclure ce site web de OneTab",
+    "message": "Exclure ce site web de DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Envoyer tous les onglets sur OneTab",
+    "message": "Envoyer tous les onglets sur DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Envoyer ce lien Web sur OneTab",
+    "message": "Envoyer ce lien Web sur DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Envoyer uniquement cet onglet sur OneTab",
+    "message": "Envoyer uniquement cet onglet sur DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Envoyer tous les onglets sauf cet onglet sur OneTab",
+    "message": "Envoyer tous les onglets sauf cet onglet sur DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Envoyer les onglets de gauche sur OneTab",
+    "message": "Envoyer les onglets de gauche sur DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Envoyer les onglets de droite sur OneTab",
+    "message": "Envoyer les onglets de droite sur DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Envoyer tous les onglets de toutes les fenêtres sur OneTab",
+    "message": "Envoyer tous les onglets de toutes les fenêtres sur DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Ajouter OneTab maintenant",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Ajouter DarkTab maintenant",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Aucune inscription ou enregistrement requis",

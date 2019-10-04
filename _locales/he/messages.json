@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "הצג את OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "הצג את DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "כרטיסייה",
@@ -81,7 +81,7 @@
   },
   "bringAllTabsIntoOneTab": {
     "message": "הבא את כל הכרטיסיות ל-OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
     "message": "עדיין אין לך כרטיסיות ב-OneTab",
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "כשיש לך מספר כרטיסיות פתוחות, לחץ על הסמל של OneTab שבסרגל הכלים בדפדפן שלך וכל הכרטיסיות הפתוחות שלך יופיעו כאן.",
+    "message": "כשיש לך מספר כרטיסיות פתוחות, לחץ על הסמל של DarkTab שבסרגל הכלים בדפדפן שלך וכל הכרטיסיות הפתוחות שלך יופיעו כאן.",
     "description": ""
   },
   "total0Tabs": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "חלון חדש, אלא אם כן OneTab היא הכרטיסייה היחידה בחלון הנוכחי",
+    "message": "חלון חדש, אלא אם כן DarkTab היא הכרטיסייה היחידה בחלון הנוכחי",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -180,7 +180,7 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "עדיין תוכל לשלוח כרטיסייה מוצמדת ל-OneTab על ידי כניסה לתפריט OneTab באמצעות לחיצה ימנית בעכבר בדף האינטרנט, ולאחר מכן לחיצה על \"שלח רק כרטיסייה זו ל-OneTab\"",
+    "message": "עדיין תוכל לשלוח כרטיסייה מוצמדת ל-OneTab על ידי כניסה לתפריט DarkTab באמצעות לחיצה ימנית בעכבר בדף האינטרנט, ולאחר מכן לחיצה על \"שלח רק כרטיסייה זו ל-OneTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
@@ -188,7 +188,7 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "שים לב: הצמדת כרטיסיות נעשית באמצעות לחיצה ימנית על הכרטיסייה ולחיצה על \"הצמד כרטיסייה\". יש אנשים שאוהבים להצמיד אתרים כמו Facebook או Gmail כדי שהם יוכלו לגשת אליהם ביתר קלות. OneTab יזכור האם הכרטיסייה שלך היתה מוצמדת או לא ברגע שתשחזר אותה.",
+    "message": "שים לב: הצמדת כרטיסיות נעשית באמצעות לחיצה ימנית על הכרטיסייה ולחיצה על \"הצמד כרטיסייה\". יש אנשים שאוהבים להצמיד אתרים כמו Facebook או Gmail כדי שהם יוכלו לגשת אליהם ביתר קלות. DarkTab יזכור האם הכרטיסייה שלך היתה מוצמדת או לא ברגע שתשחזר אותה.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "הפעל את OneTab בכל פעם שאתה פותח את דפדפן האינטרנט שלך בפעם הראשונה",
+    "message": "הפעל את DarkTab בכל פעם שאתה פותח את דפדפן האינטרנט שלך בפעם הראשונה",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "אל תפעיל את OneTab אוטומטית",
+    "message": "אל תפעיל את DarkTab אוטומטית",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "להפעלת OneTab בצורה ידנית, לחץ לחיצה ימנית בעכבר לפתיחת התפריט ובחר באפשרות \"הצג את OneTab\"",
+    "message": "להפעלת DarkTab בצורה ידנית, לחץ לחיצה ימנית בעכבר לפתיחת התפריט ובחר באפשרות \"הצג את DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "אם OneTab כבר כולל את כתובת האינטרנט של הכרטיסייה, הכתובת לא תתווסף שנית. אפשרות זו תקפה במקרה שתלחץ על הסמל של OneTab או שתיכנס לתפריט OneTab באמצעות לחיצה ימנית על העכבר ותשלח מספר כרטיסיות ל-OneTab. אם תשתמש בתפריט OneTab כדי לשלוח רק כרטיסייה ספציפית ל-OneTab, הכפילות תאושר עבור אותה כרטיסייה ספציפית.",
+    "message": "אם DarkTab כבר כולל את כתובת האינטרנט של הכרטיסייה, הכתובת לא תתווסף שנית. אפשרות זו תקפה במקרה שתלחץ על הסמל של DarkTab או שתיכנס לתפריט DarkTab באמצעות לחיצה ימנית על העכבר ותשלח מספר כרטיסיות ל-OneTab. אם תשתמש בתפריט DarkTab כדי לשלוח רק כרטיסייה ספציפית ל-OneTab, הכפילות תאושר עבור אותה כרטיסייה ספציפית.",
     "description": ""
   },
   "namedTabGroups": {
@@ -256,31 +256,31 @@
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "שלח את כל הכרטיסיות אל OneTab",
+    "message": "שלח את כל הכרטיסיות אל DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "שלח קישור אינטרנט זה אל OneTab",
+    "message": "שלח קישור אינטרנט זה אל DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "שלח רק כרטיסייה זו אל OneTab",
+    "message": "שלח רק כרטיסייה זו אל DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "שלח את כל הכרטיסיות פרט לכרטיסיה זו אל OneTab",
+    "message": "שלח את כל הכרטיסיות פרט לכרטיסיה זו אל DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "שלח את הכרטיסיות שמשמאל אל OneTab",
+    "message": "שלח את הכרטיסיות שמשמאל אל DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "שלח את הכרטיסיות שמימין אל OneTab",
+    "message": "שלח את הכרטיסיות שמימין אל DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "שלח את כל הכרטיסיות מכל החלונות אל OneTab",
+    "message": "שלח את כל הכרטיסיות מכל החלונות אל DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "הוסף את OneTab כעת",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "הוסף את DarkTab כעת",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "אין צורך בהרשמה",

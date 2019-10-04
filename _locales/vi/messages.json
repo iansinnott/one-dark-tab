@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Hiển thị OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Hiển thị DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "tab",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Gửi tab hiện tại vào OneTab",
+    "message": "Gửi tab hiện tại vào DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Chuyển tất cả các tab vào OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Chuyển tất cả các tab vào DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Bạn chưa có tab nào trong OneTab",
+    "message": "Bạn chưa có tab nào trong DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Khi bạn có nhiều tab đang mở, hãy bấm vào biểu tượng OneTab trên thanh công cụ trình duyệt của bạn, các tab đang mở của bạn sẽ xuất hiện ở đây.",
+    "message": "Khi bạn có nhiều tab đang mở, hãy bấm vào biểu tượng DarkTab trên thanh công cụ trình duyệt của bạn, các tab đang mở của bạn sẽ xuất hiện ở đây.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Danh sách các URL sau cũng có thể được nhập trở lại vào OneTab trên máy tính này hoặc máy tính khác",
+    "message": "Danh sách các URL sau cũng có thể được nhập trở lại vào DarkTab trên máy tính này hoặc máy tính khác",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Một cửa sổ mới, trừ khi OneTab là tab duy nhất trong cửa sổ hiện tại",
+    "message": "Một cửa sổ mới, trừ khi DarkTab là tab duy nhất trong cửa sổ hiện tại",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Không gửi các tab đã ghim vào OneTab",
+    "message": "Không gửi các tab đã ghim vào DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Bạn vẫn có thể gửi thủ công một tab đã ghim vào OneTab bằng cách bấm chuột phải trong phạm vi trang web để truy cập vào menu OneTab, rồi sau đó bấm vào \"Chỉ gửi tab này vào OneTab\"",
+    "message": "Bạn vẫn có thể gửi thủ công một tab đã ghim vào DarkTab bằng cách bấm chuột phải trong phạm vi trang web để truy cập vào menu DarkTab, rồi sau đó bấm vào \"Chỉ gửi tab này vào DarkTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Cho phép gửi các tab đã ghim vào OneTab",
+    "message": "Cho phép gửi các tab đã ghim vào DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Lưu ý: Một tab sẽ có trạng thái \"đã ghim\" khi bạn bấm chuột phải vào tab đó rồi bấm vào \"Ghim tab\". Một số người thích ghim các trang web như Facebook hay Gmail để họ có thể dễ dàng xác định vị trí của các trang này. OneTab sẽ nhớ liệu một tab đã được ghim hay chưa khi bạn khôi phục lại nó.",
+    "message": "Lưu ý: Một tab sẽ có trạng thái \"đã ghim\" khi bạn bấm chuột phải vào tab đó rồi bấm vào \"Ghim tab\". Một số người thích ghim các trang web như Facebook hay Gmail để họ có thể dễ dàng xác định vị trí của các trang này. DarkTab sẽ nhớ liệu một tab đã được ghim hay chưa khi bạn khôi phục lại nó.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Hiển thị OneTab bất cứ khi nào bạn khởi động trình duyệt web của bạn vào lần đầu tiên",
+    "message": "Hiển thị DarkTab bất cứ khi nào bạn khởi động trình duyệt web của bạn vào lần đầu tiên",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Không tự động mở OneTab",
+    "message": "Không tự động mở DarkTab",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Để mở OneTab thủ công, hãy sử dụng menu bấm chuột phải và chọn \"Hiển thị OneTab\"",
+    "message": "Để mở DarkTab thủ công, hãy sử dụng menu bấm chuột phải và chọn \"Hiển thị DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Mở (các) tab này và xóa khỏi danh sách OneTab của bạn",
+    "message": "Mở (các) tab này và xóa khỏi danh sách DarkTab của bạn",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Bạn vẫn có thể nhấn Ctrl, Cmd hoặc Shift để khôi phục lại (các) tab mà không cần xóa các tab này khỏi OneTab. Nếu bạn thiết lập bất kỳ nhóm tab nào của bạn là \"đã khóa\", khi đó các tab này sẽ không bị xóa khỏi OneTab trừ khi bạn mở khóa nhóm tab đó trước tiên.",
+    "message": "Bạn vẫn có thể nhấn Ctrl, Cmd hoặc Shift để khôi phục lại (các) tab mà không cần xóa các tab này khỏi DarkTab. Nếu bạn thiết lập bất kỳ nhóm tab nào của bạn là \"đã khóa\", khi đó các tab này sẽ không bị xóa khỏi DarkTab trừ khi bạn mở khóa nhóm tab đó trước tiên.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Lưu các tab trong danh sách OneTab của bạn",
+    "message": "Lưu các tab trong danh sách DarkTab của bạn",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Nếu OneTab đã chứa URL của một tab, URL này sẽ không được thêm vào lại lần nữa. Tính năng này chỉ áp dụng khi bạn bấm vào biểu tượng OneTab hoặc sử dụng menu bấm chuột phải để gửi nhiều tab vào OneTab. Nếu bạn sử dụng menu bấm chuột phải vào OneTab để gửi một tab cụ thể duy nhất vào OneTab, khi đó tab cụ thể này sẽ cho phép trùng lặp .",
+    "message": "Nếu DarkTab đã chứa URL của một tab, URL này sẽ không được thêm vào lại lần nữa. Tính năng này chỉ áp dụng khi bạn bấm vào biểu tượng DarkTab hoặc sử dụng menu bấm chuột phải để gửi nhiều tab vào DarkTab. Nếu bạn sử dụng menu bấm chuột phải vào DarkTab để gửi một tab cụ thể duy nhất vào DarkTab, khi đó tab cụ thể này sẽ cho phép trùng lặp .",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Loại bỏ DOMAIN.COM khỏi OneTab",
+    "message": "Loại bỏ DOMAIN.COM khỏi DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Loại bỏ trang web này khỏi OneTab",
+    "message": "Loại bỏ trang web này khỏi DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Gửi tất cả các tab vào OneTab",
+    "message": "Gửi tất cả các tab vào DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Gửi liên kết web này vào OneTab",
+    "message": "Gửi liên kết web này vào DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Chỉ gửi tab này vào OneTab",
+    "message": "Chỉ gửi tab này vào DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Gửi tất cả các tab trừ tab này vào OneTab",
+    "message": "Gửi tất cả các tab trừ tab này vào DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Gửi các tab bên trái vào OneTab",
+    "message": "Gửi các tab bên trái vào DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Gửi các tab bên phải vào OneTab",
+    "message": "Gửi các tab bên phải vào DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Gửi tất cả các tab từ tất cả các cửa sổ vào OneTab",
+    "message": "Gửi tất cả các tab từ tất cả các cửa sổ vào DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Thêm OneTab ngay",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Thêm DarkTab ngay",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Không cần đăng ký",

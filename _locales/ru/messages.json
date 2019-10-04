@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Показывать OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Показывать DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "вкладка",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Отправить текущую вкладку в OneTab",
+    "message": "Отправить текущую вкладку в DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Добавить все вкладки в OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Добавить все вкладки в DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "У вас пока нет вкладок в OneTab",
+    "message": "У вас пока нет вкладок в DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Если у вас есть открыто несколько вкладок, щелкните значок OneTab на панели инструментов браузера, и ваши открытые вкладки появятся здесь.",
+    "message": "Если у вас есть открыто несколько вкладок, щелкните значок DarkTab на панели инструментов браузера, и ваши открытые вкладки появятся здесь.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Следующий список URL-адресов может также быть импортирован обратно в OneTab на этом или другом компьютере",
+    "message": "Следующий список URL-адресов может также быть импортирован обратно в DarkTab на этом или другом компьютере",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Новое окно, если OneTab не является единственной вкладкой в текущем окне",
+    "message": "Новое окно, если DarkTab не является единственной вкладкой в текущем окне",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Не отправлять закрепленные вкладки в OneTab",
+    "message": "Не отправлять закрепленные вкладки в DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Вы все еще можете вручную отправить закрепленную вкладку в OneTab, щелкнув правой кнопкой мыши на веб-странице для доступа к меню OneTab, а затем нажав кнопку \"Отправить в OneTab только эту вкладку\"",
+    "message": "Вы все еще можете вручную отправить закрепленную вкладку в DarkTab, щелкнув правой кнопкой мыши на веб-странице для доступа к меню DarkTab, а затем нажав кнопку \"Отправить в DarkTab только эту вкладку\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Разрешить отправку закрепленных вкладок в OneTab",
+    "message": "Разрешить отправку закрепленных вкладок в DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Примечание: Вкладка становится \"закрепленной\" после щелчка правой кнопкой мыши на вкладке и нажатия \"закрепить вкладку\". Многие пользователи любят закреплять такие сайты, как Facebook или Gmail, чтобы легко находить их. OneTab запомнит, была ли вкладка закреплена, при ее восстановлении.",
+    "message": "Примечание: Вкладка становится \"закрепленной\" после щелчка правой кнопкой мыши на вкладке и нажатия \"закрепить вкладку\". Многие пользователи любят закреплять такие сайты, как Facebook или Gmail, чтобы легко находить их. DarkTab запомнит, была ли вкладка закреплена, при ее восстановлении.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Показывать OneTab при первом запуске вашего браузера",
+    "message": "Показывать DarkTab при первом запуске вашего браузера",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Не открывать OneTab автоматически",
+    "message": "Не открывать DarkTab автоматически",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Чтобы открыть OneTab вручную, щелкните правой кнопкой мыши и выберите \"Показать OneTab\"",
+    "message": "Чтобы открыть DarkTab вручную, щелкните правой кнопкой мыши и выберите \"Показать DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Открыть вкладку (вкладки) и удалить их из списка OneTab",
+    "message": "Открыть вкладку (вкладки) и удалить их из списка DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Вы также можете нажать Ctrl, Cmd или Shift, чтобы восстановить одну или более вкладок, не удаляя их из OneTab. Если вы блокируете любую из ваших групп вкладок, вкладки не будут удалены из OneTab, если только вы сначала не разблокируете эту группу вкладок.",
+    "message": "Вы также можете нажать Ctrl, Cmd или Shift, чтобы восстановить одну или более вкладок, не удаляя их из DarkTab. Если вы блокируете любую из ваших групп вкладок, вкладки не будут удалены из DarkTab, если только вы сначала не разблокируете эту группу вкладок.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Сохраняйте их в вашем списке OneTab",
+    "message": "Сохраняйте их в вашем списке DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Если OneTab уже содержит URL-адрес вкладки, она не будет добавлена снова. Это происходит только при нажатии на значок OneTab или использовании контекстного меню для отправки нескольких вкладок в OneTab. Если вы используете контекстное меню OneTab для отправки только определенной вкладки в OneTab, дубликат будет разрешен для этой конкретной вкладки.",
+    "message": "Если DarkTab уже содержит URL-адрес вкладки, она не будет добавлена снова. Это происходит только при нажатии на значок DarkTab или использовании контекстного меню для отправки нескольких вкладок в DarkTab. Если вы используете контекстное меню DarkTab для отправки только определенной вкладки в DarkTab, дубликат будет разрешен для этой конкретной вкладки.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Исключить DOMAIN.COM из OneTab",
+    "message": "Исключить DOMAIN.COM из DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Исключить этот сайт из OneTab",
+    "message": "Исключить этот сайт из DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Отправить все вкладки в OneTab",
+    "message": "Отправить все вкладки в DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Отправить эту ссылку в OneTab",
+    "message": "Отправить эту ссылку в DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Отправить в OneTab только эту вкладку",
+    "message": "Отправить в DarkTab только эту вкладку",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Отправить в OneTab все вкладки, кроме этой",
+    "message": "Отправить в DarkTab все вкладки, кроме этой",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Отправить вкладки слева в OneTab",
+    "message": "Отправить вкладки слева в DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Отправить вкладки справа в OneTab",
+    "message": "Отправить вкладки справа в DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Отправить все вкладки из всех окон в OneTab",
+    "message": "Отправить все вкладки из всех окон в DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Добавить OneTab сейчас",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Добавить DarkTab сейчас",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Не требует регистрации",

@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Display OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Display DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "tab",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Send the current tab to OneTab",
+    "message": "Send the current tab to DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description":"gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Bring all tabs into OneTab",
-    "description":"Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Bring all tabs into DarkTab",
+    "description":"Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "You do not yet have any tabs in OneTab",
+    "message": "You do not yet have any tabs in DarkTab",
     "description":""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description":"Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "When you have multiple tabs open, click the OneTab icon on your browser toolbar and your open tabs will appear here.",
+    "message": "When you have multiple tabs open, click the DarkTab icon on your browser toolbar and your open tabs will appear here.",
     "description":""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description":"Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "The following list of URLs can also be imported back into OneTab on this or a different computer",
+    "message": "The following list of URLs can also be imported back into DarkTab on this or a different computer",
     "description":""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description":"This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "A new window, unless OneTab is the only tab in the current window",
+    "message": "A new window, unless DarkTab is the only tab in the current window",
     "description":""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description":"Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Don't send pinned tabs to OneTab",
+    "message": "Don't send pinned tabs to DarkTab",
     "description":"Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "You can still manually send a pinned tab to OneTab by right clicking within the web page to access the OneTab menu, and then clicking 'Send only this tab to OneTab'",
+    "message": "You can still manually send a pinned tab to DarkTab by right clicking within the web page to access the DarkTab menu, and then clicking 'Send only this tab to DarkTab'",
     "description":"Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Allow pinned tabs to be sent to OneTab",
+    "message": "Allow pinned tabs to be sent to DarkTab",
     "description":"Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Note:  A tab becomes 'pinned' when you right click on the tab and click 'Pin tab'. Some people like to make sites such as Facebook or Gmail pinned so they can easily locate them. OneTab will remember whether a tab was pinned when you restore it.",
+    "message": "Note:  A tab becomes 'pinned' when you right click on the tab and click 'Pin tab'. Some people like to make sites such as Facebook or Gmail pinned so they can easily locate them. DarkTab will remember whether a tab was pinned when you restore it.",
     "description":"Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description":"'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Display OneTab whenever you start your web browser for the first time",
+    "message": "Display DarkTab whenever you start your web browser for the first time",
     "description":""
   },
   "optionStartupLaunchNone": {
-    "message": "Do not open OneTab automatically",
+    "message": "Do not open DarkTab automatically",
     "description":""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "To open OneTab manually, use the right click menu and choose 'Display OneTab'",
+    "message": "To open DarkTab manually, use the right click menu and choose 'Display DarkTab'",
     "description":""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description":""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Open the tab(s) and remove them from your OneTab list",
+    "message": "Open the tab(s) and remove them from your DarkTab list",
     "description":""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "You still can press ctrl, cmd or shift to restore the tab(s) without removing them from OneTab. If you set any of your tab groups as 'locked' then the tabs will not be removed from OneTab unless you unlock that tab group first.",
+    "message": "You still can press ctrl, cmd or shift to restore the tab(s) without removing them from DarkTab. If you set any of your tab groups as 'locked' then the tabs will not be removed from DarkTab unless you unlock that tab group first.",
     "description":""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Keep them in your OneTab list",
+    "message": "Keep them in your DarkTab list",
     "description":""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description":""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "If OneTab already contains the URL of a tab, it will not be added again. This only applies when you click the OneTab icon or use the right click menu to send multiple tabs to OneTab. If you use the right click OneTab menu to send only a specific tab to OneTab, then the duplicate will be allowed for that specific tab.",
+    "message": "If DarkTab already contains the URL of a tab, it will not be added again. This only applies when you click the DarkTab icon or use the right click menu to send multiple tabs to DarkTab. If you use the right click DarkTab menu to send only a specific tab to DarkTab, then the duplicate will be allowed for that specific tab.",
     "description":""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description":"Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Exclude DOMAIN.COM from OneTab",
+    "message": "Exclude DOMAIN.COM from DarkTab",
     "description":"Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Exclude this web site from OneTab",
+    "message": "Exclude this web site from DarkTab",
     "description":""
   },
   "sendAllTabsToOneTab": {
-    "message": "Send all tabs to OneTab",
+    "message": "Send all tabs to DarkTab",
     "description":""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Send this web link to OneTab",
+    "message": "Send this web link to DarkTab",
     "description":""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Send only this tab to OneTab",
+    "message": "Send only this tab to DarkTab",
     "description":""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Send all tabs except this tab to OneTab",
+    "message": "Send all tabs except this tab to DarkTab",
     "description":""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Send tabs on the left to OneTab",
+    "message": "Send tabs on the left to DarkTab",
     "description":""
   },
   "sendRightTabsToOneTab": {
-    "message": "Send tabs on the right to OneTab",
+    "message": "Send tabs on the right to DarkTab",
     "description":""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Send all tabs from all windows to OneTab",
+    "message": "Send all tabs from all windows to DarkTab",
     "description":""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description":""
   },
   "addOneTabNow": {
-    "message": "Add OneTab now",
-    "description":"This means the user can add (install) the OneTab software to their web browser"
+    "message": "Add DarkTab now",
+    "description":"This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "No signup or registration required",

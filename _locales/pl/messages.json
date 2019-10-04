@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Wyświetl OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Wyświetl DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "karta",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Wyślij bieżącą kartę do OneTab",
+    "message": "Wyślij bieżącą kartę do DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Przenieś wszystkie karty do OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Przenieś wszystkie karty do DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Nie masz jeszcze żadnych kart w OneTab",
+    "message": "Nie masz jeszcze żadnych kart w DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Gdy masz wiele otwartych kart, kliknij ikonę OneTab na pasku przeglądarki, aby je wyświetlić.",
+    "message": "Gdy masz wiele otwartych kart, kliknij ikonę DarkTab na pasku przeglądarki, aby je wyświetlić.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Poniższą listę adresów URL można też zaimportować z powrotem do OneTab na tym lub innym komputerze",
+    "message": "Poniższą listę adresów URL można też zaimportować z powrotem do DarkTab na tym lub innym komputerze",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Nowe okno, chyba że OneTab to jedyna karta w bieżącym oknie",
+    "message": "Nowe okno, chyba że DarkTab to jedyna karta w bieżącym oknie",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Nie wysyłaj przypiętych kart do OneTab",
+    "message": "Nie wysyłaj przypiętych kart do DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Możesz też samodzielnie wysłać przypiętą kartę do OneTab, klikając prawym przyciskiem myszy w obrębie strony, by przejść do menu OneTab, a następnie klikając „Wyślij tylko tę kartę do OneTab”",
+    "message": "Możesz też samodzielnie wysłać przypiętą kartę do DarkTab, klikając prawym przyciskiem myszy w obrębie strony, by przejść do menu DarkTab, a następnie klikając „Wyślij tylko tę kartę do DarkTab”",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Zezwalaj na wysyłanie przypiętych kart do OneTab",
+    "message": "Zezwalaj na wysyłanie przypiętych kart do DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Uwaga: aby przypiąć kartę, należy kliknąć ją prawym przyciskiem myszy, a następnie kliknąć opcję „Przypnij kartę”. Wielu użytkowników przypina popularne witryny, jak Facebook czy Gmail, aby łatwo je odnaleźć. Po przywróceniu karty OneTab pamięta, czy była przypięta.",
+    "message": "Uwaga: aby przypiąć kartę, należy kliknąć ją prawym przyciskiem myszy, a następnie kliknąć opcję „Przypnij kartę”. Wielu użytkowników przypina popularne witryny, jak Facebook czy Gmail, aby łatwo je odnaleźć. Po przywróceniu karty DarkTab pamięta, czy była przypięta.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Wyświetlaj OneTab po każdym uruchomieniu przeglądarki po raz pierwszy",
+    "message": "Wyświetlaj DarkTab po każdym uruchomieniu przeglądarki po raz pierwszy",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Nie otwieraj OneTab automatycznie",
+    "message": "Nie otwieraj DarkTab automatycznie",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Aby otworzyć OneTab samodzielnie, użyj menu wywoływanego prawym przyciskiem myszy i wybierz „Wyświetl OneTab”",
+    "message": "Aby otworzyć DarkTab samodzielnie, użyj menu wywoływanego prawym przyciskiem myszy i wybierz „Wyświetl DarkTab”",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Otwórz kartę (karty) i usuń ją (je) z listy OneTab",
+    "message": "Otwórz kartę (karty) i usuń ją (je) z listy DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Możesz też nacisnąć klawisz ctrl, cmd lub shift, aby przywrócić kartę (karty) bez usuwania jej (ich) z OneTab. Jeśli ustawisz daną grupę kart jako „zablokowaną”, znajdujących się w niej kart nie będzie można usunąć z OneTab, dopóki nie odblokujesz danej grupy kart.",
+    "message": "Możesz też nacisnąć klawisz ctrl, cmd lub shift, aby przywrócić kartę (karty) bez usuwania jej (ich) z DarkTab. Jeśli ustawisz daną grupę kart jako „zablokowaną”, znajdujących się w niej kart nie będzie można usunąć z DarkTab, dopóki nie odblokujesz danej grupy kart.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Przechowuj na liście OneTab",
+    "message": "Przechowuj na liście DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Jeśli OneTab już zawiera adres URL karty, nie zostanie on dodany ponownie. Dotyczy to tylko kliknięcia ikony OneTab lub użycia menu wywoływanego prawym przyciskiem myszy w celu wysłania wielu kart do OneTab. Jeśli użyjesz menu OneTab wywoływanego prawym przyciskiem myszy, by wysłać tylko konkretną kartę do OneTab, jej duplikat będzie dozwolony.",
+    "message": "Jeśli DarkTab już zawiera adres URL karty, nie zostanie on dodany ponownie. Dotyczy to tylko kliknięcia ikony DarkTab lub użycia menu wywoływanego prawym przyciskiem myszy w celu wysłania wielu kart do DarkTab. Jeśli użyjesz menu DarkTab wywoływanego prawym przyciskiem myszy, by wysłać tylko konkretną kartę do DarkTab, jej duplikat będzie dozwolony.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Wyklucz DOMAIN.COM z OneTab",
+    "message": "Wyklucz DOMAIN.COM z DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Wyklucz tę witrynę z OneTab",
+    "message": "Wyklucz tę witrynę z DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Wyślij wszystkie karty do OneTab",
+    "message": "Wyślij wszystkie karty do DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Wyślij ten link do witryny do OneTab",
+    "message": "Wyślij ten link do witryny do DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Wyślij tylko tę kartę do OneTab",
+    "message": "Wyślij tylko tę kartę do DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Wyślij wszystkie karty oprócz tej karty do OneTab",
+    "message": "Wyślij wszystkie karty oprócz tej karty do DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Wyślij karty po lewej stronie do OneTab",
+    "message": "Wyślij karty po lewej stronie do DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Wyślij karty po prawej stronie do OneTab",
+    "message": "Wyślij karty po prawej stronie do DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Wyślij wszystkie karty ze wszystkich okien do OneTab",
+    "message": "Wyślij wszystkie karty ze wszystkich okien do DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,15 +328,15 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Dodaj OneTab teraz",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Dodaj DarkTab teraz",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Nie jest wymagana rejestracja",
     "description": ""
   },
   "OneTabAlsoAvailableForFirefox": {
-    "message": "Aplikacja OneTab jest również dostępna dla Firefoksa",
+    "message": "Aplikacja DarkTab jest również dostępna dla Firefoksa",
     "description": ""
   },
   "convertTabsIntoAList": {
@@ -348,7 +348,7 @@
     "description": ""
   },
   "nowAvailableInLanguage": {
-    "message": "Aplikacja OneTab jest teraz dostępna w języku polskim!",
+    "message": "Aplikacja DarkTab jest teraz dostępna w języku polskim!",
     "description": "Important: Please substitute the word 'English' for the name of the language (e.g. Deutsch/Francais/etc) you are translating into."
   },
   "newExclamation": {

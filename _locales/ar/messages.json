@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "عرض OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "عرض DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "التبويب",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "أرسل التبويب الحالي إلى OneTab",
+    "message": "أرسل التبويب الحالي إلى DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "وضع كل التبويبات في OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "وضع كل التبويبات في DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "ليس لديك حتى الآن أي علامات تبويب في OneTab",
+    "message": "ليس لديك حتى الآن أي علامات تبويب في DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "عندما يكون لديك العديد من علامات التبويب المفتوحة، انقر فوق رمز OneTab على شريط أدوات المتصفح الخاص بك وسوف تظهر علامات التبويب المفتوحة هنا.",
+    "message": "عندما يكون لديك العديد من علامات التبويب المفتوحة، انقر فوق رمز DarkTab على شريط أدوات المتصفح الخاص بك وسوف تظهر علامات التبويب المفتوحة هنا.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "القائمة التالية من عناوين URL يمكن أيضًا استيرادها مرة أخرى إلى OneTab على هذا الكمبيوتر أو كمبيوتر آخر",
+    "message": "القائمة التالية من عناوين URL يمكن أيضًا استيرادها مرة أخرى إلى DarkTab على هذا الكمبيوتر أو كمبيوتر آخر",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "نافذة جديدة، ما لم يكن OneTab هو علامة التبويب الوحيدة في الإطار الحالي",
+    "message": "نافذة جديدة، ما لم يكن DarkTab هو علامة التبويب الوحيدة في الإطار الحالي",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "لا ترسل العلامات المثبتة إلى OneTab",
+    "message": "لا ترسل العلامات المثبتة إلى DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "لا يزال بإمكانك إرسال علامة تبويب مثبتة يدويًا إلى OneTab عن طريق النقر بزر الماوس الأيمن على صفحة الويب للوصول إلى قائمة OneTab، ثم النقر على \"إرسال علامة التبويب هذه فقط إلى OneTab\"",
+    "message": "لا يزال بإمكانك إرسال علامة تبويب مثبتة يدويًا إلى DarkTab عن طريق النقر بزر الماوس الأيمن على صفحة الويب للوصول إلى قائمة DarkTab، ثم النقر على \"إرسال علامة التبويب هذه فقط إلى DarkTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "السماح بإرسال علامات التبويب المثبتة إلى OneTab",
+    "message": "السماح بإرسال علامات التبويب المثبتة إلى DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "ملحوظة: تصبح علامة التبويب \"مثبتة\" عندما تنقر بزر الماوس الأيمن على علامة التبويب وتنقر على \"تثبيت علامة التبويب\". بعض الناس يفضلون جعل مواقع مثل فيسبوك وGmail مثبتة حتى يصلوا إليها بسهولة. سيقوم OneTab بتذكر ما إذا كانت علامة التبويب مثبتة أم لا عندما تستعيدها.",
+    "message": "ملحوظة: تصبح علامة التبويب \"مثبتة\" عندما تنقر بزر الماوس الأيمن على علامة التبويب وتنقر على \"تثبيت علامة التبويب\". بعض الناس يفضلون جعل مواقع مثل فيسبوك وGmail مثبتة حتى يصلوا إليها بسهولة. سيقوم DarkTab بتذكر ما إذا كانت علامة التبويب مثبتة أم لا عندما تستعيدها.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "عرض OneTab عندما تفتح متصفح الويب الخاص بك لأول مرة",
+    "message": "عرض DarkTab عندما تفتح متصفح الويب الخاص بك لأول مرة",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "لا تفتح OneTab تلقائيًا",
+    "message": "لا تفتح DarkTab تلقائيًا",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "لفتح OneTab يدويًا، استخدم قائمة النقر بالماوس الأيمن واختر \"عرض OneTab\"",
+    "message": "لفتح DarkTab يدويًا، استخدم قائمة النقر بالماوس الأيمن واختر \"عرض DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "افتح علامة (علامات) التبويب وقم بإزالتها من قائمة OneTab",
+    "message": "افتح علامة (علامات) التبويب وقم بإزالتها من قائمة DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "يمكنك الاستمرار في الضغط على Ctrl أو cmd أو shift لاستعادة علامة (علامات) التبويب دون إزالتها من OneTab. إذا أرسلت أيًا من مجموعات علامات التبويب الخاصة بك كـ\"مقفلة\" فإن علامات التبويب لم يتم إزالتها من OneTab إلا إذا قمت بفتح مجموعة علامات التبويب أولاً.",
+    "message": "يمكنك الاستمرار في الضغط على Ctrl أو cmd أو shift لاستعادة علامة (علامات) التبويب دون إزالتها من DarkTab. إذا أرسلت أيًا من مجموعات علامات التبويب الخاصة بك كـ\"مقفلة\" فإن علامات التبويب لم يتم إزالتها من DarkTab إلا إذا قمت بفتح مجموعة علامات التبويب أولاً.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "إبقاءها في قائمة OneTab الخاصة بك",
+    "message": "إبقاءها في قائمة DarkTab الخاصة بك",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "إذا كان OneTab يحتوي بالفعل على عنوان URL الخاص بعلامة تبويب، فلن تتم إضافته مرة أخرى. ينطبق هذا فقط عندما تنقر على أيقونة OneTab أو تستخدم قائمة النقر بزر الماوس الأيمن لإرسال علامات تبويب متعددة إلى OneTab. إذا استخدمت قائمة OneTab بالنقر بزر الماوس الأيمن لإرسال علامة تبويب محددة فقط إلى OneTab، وبعد ذلك سيتم السماح بالتكرار لعلامة التبويب المحددة تلك.",
+    "message": "إذا كان DarkTab يحتوي بالفعل على عنوان URL الخاص بعلامة تبويب، فلن تتم إضافته مرة أخرى. ينطبق هذا فقط عندما تنقر على أيقونة DarkTab أو تستخدم قائمة النقر بزر الماوس الأيمن لإرسال علامات تبويب متعددة إلى DarkTab. إذا استخدمت قائمة DarkTab بالنقر بزر الماوس الأيمن لإرسال علامة تبويب محددة فقط إلى DarkTab، وبعد ذلك سيتم السماح بالتكرار لعلامة التبويب المحددة تلك.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "استبعاد DOMAIN.COM من OneTab",
+    "message": "استبعاد DOMAIN.COM من DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "استبعاد هذا الموقع من OneTab",
+    "message": "استبعاد هذا الموقع من DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "إرسال كافة علامات التبويب إلى OneTab",
+    "message": "إرسال كافة علامات التبويب إلى DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "إرسال رابط الموقع هذا إلى OneTab",
+    "message": "إرسال رابط الموقع هذا إلى DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "إرسال علامة التبويب هذه فقط إلى OneTab",
+    "message": "إرسال علامة التبويب هذه فقط إلى DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "إرسال كافة علامات التبويب باستثناء علامة التبويب هذه إلى OneTab",
+    "message": "إرسال كافة علامات التبويب باستثناء علامة التبويب هذه إلى DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "إرسال علامات التبويب على اليسار إلى OneTab",
+    "message": "إرسال علامات التبويب على اليسار إلى DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "إرسال علامات التبويب على اليمين إلى OneTab",
+    "message": "إرسال علامات التبويب على اليمين إلى DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "إرسال كل علامات التبويب من كل النوافذ إلى OneTab",
+    "message": "إرسال كل علامات التبويب من كل النوافذ إلى DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "إضافة OneTab الآن",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "إضافة DarkTab الآن",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "غير مطلوب التسجيل أو الاشتراك",

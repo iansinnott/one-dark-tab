@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
     "message": "OneTabを表示する",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "タブ",
@@ -81,7 +81,7 @@
   },
   "bringAllTabsIntoOneTab": {
     "message": "OneTabで全てのタブを整理しましょう",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
     "message": "OneTabで管理されているタブはありません",
@@ -329,7 +329,7 @@
   },
   "addOneTabNow": {
     "message": "今すぐOneTabを追加する",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "サインアップや登録の必要がありません",

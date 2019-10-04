@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Mostrar OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Mostrar DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "pestaña",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Enviar la pestaña actual a OneTab",
+    "message": "Enviar la pestaña actual a DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Llevar todas las pestañas a OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Llevar todas las pestañas a DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Aún no tiene pestañas en OneTab",
+    "message": "Aún no tiene pestañas en DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Cuando tenga varias pestañas abiertas, haga clic en el icono OneTab en la barra de herramientas de su navegador y todas las pestañas abiertas aparecerán aquí.",
+    "message": "Cuando tenga varias pestañas abiertas, haga clic en el icono DarkTab en la barra de herramientas de su navegador y todas las pestañas abiertas aparecerán aquí.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "La siguiente lista de URL también puede importarse de nuevo a OneTab en este o en otro computador",
+    "message": "La siguiente lista de URL también puede importarse de nuevo a DarkTab en este o en otro computador",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Una nueva ventana, a menos que OneTab sea la única pestaña de la ventana actual",
+    "message": "Una nueva ventana, a menos que DarkTab sea la única pestaña de la ventana actual",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "No enviar pestañas fijadas a OneTab",
+    "message": "No enviar pestañas fijadas a DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Todavía puede enviar manualmente una pestaña fijada a OneTab haciendo clic derecho dentro de la página web para tener acceso al menú de OneTab, luego haciendo clic en 'Enviar únicamente esta pestaña a OneTab'",
+    "message": "Todavía puede enviar manualmente una pestaña fijada a DarkTab haciendo clic derecho dentro de la página web para tener acceso al menú de DarkTab, luego haciendo clic en 'Enviar únicamente esta pestaña a DarkTab'",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Permitir enviar las pestañas fijadas a OneTab",
+    "message": "Permitir enviar las pestañas fijadas a DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Nota: Las pestañas se 'fijan' haciendo clic derecho en la pestaña y haciendo clic en 'Fijar pestaña'. A algunas personas les gusta fijar sitios tales como Facebook o Gmail para poder encontrarlos fácilmente. OneTab recordará si la pestaña estaba fijada cuando la restaure.",
+    "message": "Nota: Las pestañas se 'fijan' haciendo clic derecho en la pestaña y haciendo clic en 'Fijar pestaña'. A algunas personas les gusta fijar sitios tales como Facebook o Gmail para poder encontrarlos fácilmente. DarkTab recordará si la pestaña estaba fijada cuando la restaure.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Mostrar OneTab cuando inicie su navegador web la primera vez",
+    "message": "Mostrar DarkTab cuando inicie su navegador web la primera vez",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "No abrir OneTab automáticamente",
+    "message": "No abrir DarkTab automáticamente",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Para abrir OneTab manualmente, use el menú contextual y seleccione 'Mostrar OneTab'",
+    "message": "Para abrir DarkTab manualmente, use el menú contextual y seleccione 'Mostrar DarkTab'",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Abrir las pestañas y quitarlas de la lista de OneTab",
+    "message": "Abrir las pestañas y quitarlas de la lista de DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "También puede presionar Control, Cmd o Mayús para restaurar las pestañas sin quitarlas de OneTab. Si define como 'bloqueado' alguno de los grupos de pestañas, entonces no será eliminado de OneTab a menos que primero lo desbloquee.",
+    "message": "También puede presionar Control, Cmd o Mayús para restaurar las pestañas sin quitarlas de DarkTab. Si define como 'bloqueado' alguno de los grupos de pestañas, entonces no será eliminado de DarkTab a menos que primero lo desbloquee.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Conservarlas en la lista de OneTab",
+    "message": "Conservarlas en la lista de DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Si OneTab ya contiene el URL de una pestaña, esta no será añadida de nuevo. Esto solo aplica cuando hace clic en el icono OneTab o cuando usa el menú contextual para enviar varias pestañas a OneTab. Si hace clic derecho en OneTab para enviar únicamente una pestaña a OneTab, entonces se permitirá el duplicado para esa pestaña específica.",
+    "message": "Si DarkTab ya contiene el URL de una pestaña, esta no será añadida de nuevo. Esto solo aplica cuando hace clic en el icono DarkTab o cuando usa el menú contextual para enviar varias pestañas a DarkTab. Si hace clic derecho en DarkTab para enviar únicamente una pestaña a DarkTab, entonces se permitirá el duplicado para esa pestaña específica.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Excluir DOMAIN.COM de OneTab",
+    "message": "Excluir DOMAIN.COM de DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Excluir este sitio web de OneTab",
+    "message": "Excluir este sitio web de DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Enviar todas las pestañas a OneTab",
+    "message": "Enviar todas las pestañas a DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Enviar este enlace web a OneTab",
+    "message": "Enviar este enlace web a DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Enviar únicamente esta pestaña a OneTab",
+    "message": "Enviar únicamente esta pestaña a DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Enviar todas las pestaña, excepto esta, a OneTab",
+    "message": "Enviar todas las pestaña, excepto esta, a DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Enviar todas las pestañas a la izquierda a OneTab",
+    "message": "Enviar todas las pestañas a la izquierda a DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Enviar todas las pestañas a la derecha a OneTab",
+    "message": "Enviar todas las pestañas a la derecha a DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Enviar todas las pestañas, de todas las ventanas, a OneTab",
+    "message": "Enviar todas las pestañas, de todas las ventanas, a DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Añadir OneTab ahora",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Añadir DarkTab ahora",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "No es necesario registrarse o inscribirse",

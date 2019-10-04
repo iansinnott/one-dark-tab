@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Afișează OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Afișează DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "filă",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Trimite fila actuală către OneTab",
+    "message": "Trimite fila actuală către DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Adu toate filele în OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Adu toate filele în DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Încă nu ai file în OneTab",
+    "message": "Încă nu ai file în DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Când ai mai multe file deschise, apasă pe pictograma OneTab de pe bara de instrumente a browser-ului și filele deschise vor apărea aici.",
+    "message": "Când ai mai multe file deschise, apasă pe pictograma DarkTab de pe bara de instrumente a browser-ului și filele deschise vor apărea aici.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Următoarea listă de URL-uri poate fi și ea importată înapoi în OneTab de pe acest computer sau de pe un altul",
+    "message": "Următoarea listă de URL-uri poate fi și ea importată înapoi în DarkTab de pe acest computer sau de pe un altul",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "O nouă fereastră, dacă nu cumva OneTab este singura filă în fereastra actuală",
+    "message": "O nouă fereastră, dacă nu cumva DarkTab este singura filă în fereastra actuală",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Nu trimite filele fixate către OneTab",
+    "message": "Nu trimite filele fixate către DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Totuși, poți trimite manual o filă fixată către OneTab prin click dreapta în interiorul paginii web pentru accesarea meniului OneTab, apoi apăsând pe ”Trimite doar această filă către OneTab”",
+    "message": "Totuși, poți trimite manual o filă fixată către DarkTab prin click dreapta în interiorul paginii web pentru accesarea meniului DarkTab, apoi apăsând pe ”Trimite doar această filă către DarkTab”",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Permite filelor fixate să fie trimise către OneTab",
+    "message": "Permite filelor fixate să fie trimise către DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Notă: O filă devine „fixată” atunci când faci clic dreapta pe filă și clic pe „Fixează fila”. Unora le place să fixeze site-uri precum Facebook sau Gmail, pentru a le localiza cu ușurință. OneTab își va reaminti dacă o filă a fost fixată atunci când îl restaurezi.",
+    "message": "Notă: O filă devine „fixată” atunci când faci clic dreapta pe filă și clic pe „Fixează fila”. Unora le place să fixeze site-uri precum Facebook sau Gmail, pentru a le localiza cu ușurință. DarkTab își va reaminti dacă o filă a fost fixată atunci când îl restaurezi.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Afișează OneTab oricând pornești browser-ul web pentru prima dată",
+    "message": "Afișează DarkTab oricând pornești browser-ul web pentru prima dată",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Nu deschide OneTab în mod automat",
+    "message": "Nu deschide DarkTab în mod automat",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Pentru a deschide manual OneTab, folosește meniul clicului dreapta și alege „Afișează OneTab”",
+    "message": "Pentru a deschide manual DarkTab, folosește meniul clicului dreapta și alege „Afișează DarkTab”",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Deschide fila/filele și elimină-le din lista ta OneTab",
+    "message": "Deschide fila/filele și elimină-le din lista ta DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Totuși, poți apăsa ctrl, cmd sau shift pentru a restaura fila/filele fără să le elimini din OneTab. Dacă stabilești oricare dintre grupurile tale de file drept „blocat”, atunci foșeșe nu vor fi șterse din OneTab decât dacă, mai întâi, deblochezi acel grup de file.",
+    "message": "Totuși, poți apăsa ctrl, cmd sau shift pentru a restaura fila/filele fără să le elimini din DarkTab. Dacă stabilești oricare dintre grupurile tale de file drept „blocat”, atunci foșeșe nu vor fi șterse din DarkTab decât dacă, mai întâi, deblochezi acel grup de file.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Păstrează-le în lista ta OneTab",
+    "message": "Păstrează-le în lista ta DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Dacă OneTab conține deja URL-ul unui tab, acesta nu va fi adăugat din nou. Acest lucru se aplică doar atunci când apeși pe pictograma OneTab sau folosești meniul clicului dreapta pentru a trimite mai multe file către OneTab. Dacă folosești meniul clic dreapta al OneTab pentru a trimite doar o anumită filă către OneTab, atunci pentru acea filă este permisă o copie.",
+    "message": "Dacă DarkTab conține deja URL-ul unui tab, acesta nu va fi adăugat din nou. Acest lucru se aplică doar atunci când apeși pe pictograma DarkTab sau folosești meniul clicului dreapta pentru a trimite mai multe file către DarkTab. Dacă folosești meniul clic dreapta al DarkTab pentru a trimite doar o anumită filă către DarkTab, atunci pentru acea filă este permisă o copie.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Exclude DOMAIN.COM din OneTab",
+    "message": "Exclude DOMAIN.COM din DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Exclude acest website din OneTab",
+    "message": "Exclude acest website din DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Trimite toate filele către OneTab",
+    "message": "Trimite toate filele către DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Trimite acest link web către OneTab",
+    "message": "Trimite acest link web către DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Trimite numai această filă către OneTab",
+    "message": "Trimite numai această filă către DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Trimite toate filele cu excepția acestuia către OneTab",
+    "message": "Trimite toate filele cu excepția acestuia către DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Trimite filele din stânga către OneTab",
+    "message": "Trimite filele din stânga către DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Trimite filele din dreapta către OneTab",
+    "message": "Trimite filele din dreapta către DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Trimite toate filele din toate ferestrele către OneTab",
+    "message": "Trimite toate filele din toate ferestrele către DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Adaugă OneTab acum",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Adaugă DarkTab acum",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Nu sunt necesare înscrierea sau înregistrarea",

@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Exibir o OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Exibir o DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "guia",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Enviar guia atual para o OneTab",
+    "message": "Enviar guia atual para o DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Reunir todas as guias no OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Reunir todas as guias no DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Você ainda não tem guias no OneTab",
+    "message": "Você ainda não tem guias no DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Quando você tiver diversas guias abertas, clique no ícone do OneTab na barra de ferramentas de seu navegador e suas guias abertas aparecerão aqui.",
+    "message": "Quando você tiver diversas guias abertas, clique no ícone do DarkTab na barra de ferramentas de seu navegador e suas guias abertas aparecerão aqui.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "A lista de URLs a seguir também pode ser importada de volta para o OneTab neste computador ou em outro",
+    "message": "A lista de URLs a seguir também pode ser importada de volta para o DarkTab neste computador ou em outro",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Uma nova janela, a menos que o OneTab seja a única guia aberta na janela atual",
+    "message": "Uma nova janela, a menos que o DarkTab seja a única guia aberta na janela atual",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Não enviar guias fixas para o OneTab",
+    "message": "Não enviar guias fixas para o DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Você ainda pode enviar manualmente uma guia fixa para o OneTab clicando com o botão direito na página da web para acessar o menu OneTab, e clicando em \"Enviar apenas esta guia para o OneTab\"",
+    "message": "Você ainda pode enviar manualmente uma guia fixa para o DarkTab clicando com o botão direito na página da web para acessar o menu DarkTab, e clicando em \"Enviar apenas esta guia para o DarkTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Permitir que guias fixas sejam enviadas para o OneTab",
+    "message": "Permitir que guias fixas sejam enviadas para o DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Observação: uma guia se torna \"fixa\" quando você clica com o botão direito na guia, e clica em \"Fixar guia\". Algumas pessoas gostam de fixar sites como o Facebbok ou Gmail para que possam localizá-los com facilidade. O OneTab se lembrará se uma guia estava fixa quando você restaurá-la.",
+    "message": "Observação: uma guia se torna \"fixa\" quando você clica com o botão direito na guia, e clica em \"Fixar guia\". Algumas pessoas gostam de fixar sites como o Facebbok ou Gmail para que possam localizá-los com facilidade. O DarkTab se lembrará se uma guia estava fixa quando você restaurá-la.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Exibir o OneTab sempre que abrir seu navegador da web pela primeira vez",
+    "message": "Exibir o DarkTab sempre que abrir seu navegador da web pela primeira vez",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Não abrir o OneTab automaticamente",
+    "message": "Não abrir o DarkTab automaticamente",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Para abrir o OneTab manualmente, clique com o botão direito do mouse e selecione a opção \"Exibir OneTab\".",
+    "message": "Para abrir o DarkTab manualmente, clique com o botão direito do mouse e selecione a opção \"Exibir DarkTab\".",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Abra a(s) guia(s) e remova-as da sua lista OneTab",
+    "message": "Abra a(s) guia(s) e remova-as da sua lista DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Você ainda poderá pressionar ctrl, cmd ou shift para restaurar a(s) guia(s) sem removê-las do OneTab. Se você definir algum grupo de guias como \"bloqueado\", as guias não serão removidas do OneTab a menos que você desbloqueie esse grupo de guias antes.",
+    "message": "Você ainda poderá pressionar ctrl, cmd ou shift para restaurar a(s) guia(s) sem removê-las do DarkTab. Se você definir algum grupo de guias como \"bloqueado\", as guias não serão removidas do DarkTab a menos que você desbloqueie esse grupo de guias antes.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Mantê-las em sua lista OneTab",
+    "message": "Mantê-las em sua lista DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Se o OneTab já tiver a URL de uma guia, ela não será adicionada novamente. Isto se aplica somente quando você clicar no ícone do OneTab ou clicar com o botão direito do mouse para enviar diversas guias para o OneTab. Se você usar o menu suspenso do OneTab para enviar apenas uma guia específica para o OneTab, a duplicata será permitida somente para essa guia específica.",
+    "message": "Se o DarkTab já tiver a URL de uma guia, ela não será adicionada novamente. Isto se aplica somente quando você clicar no ícone do DarkTab ou clicar com o botão direito do mouse para enviar diversas guias para o DarkTab. Se você usar o menu suspenso do DarkTab para enviar apenas uma guia específica para o DarkTab, a duplicata será permitida somente para essa guia específica.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Excluir \"DOMAIN.COM\" do OneTab.",
+    "message": "Excluir \"DOMAIN.COM\" do DarkTab.",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Excluir este website do OneTab.",
+    "message": "Excluir este website do DarkTab.",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Enviar todas as guias para o OneTab",
+    "message": "Enviar todas as guias para o DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Enviar este link da web para o OneTab",
+    "message": "Enviar este link da web para o DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Enviar apenas esta guia para o OneTab",
+    "message": "Enviar apenas esta guia para o DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Enviar todas as guias menos esta para o OneTab",
+    "message": "Enviar todas as guias menos esta para o DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Enviar as guias à esquerda para o OneTab",
+    "message": "Enviar as guias à esquerda para o DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Enviar as guias à direita para o OneTab",
+    "message": "Enviar as guias à direita para o DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Enviar todas as guias de todas as janelas para o OneTab",
+    "message": "Enviar todas as guias de todas as janelas para o DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,15 +328,15 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Instale o OneTab agora",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Instale o DarkTab agora",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Não é preciso registro ou cadastro",
     "description": ""
   },
   "OneTabAlsoAvailableForFirefox": {
-    "message": "O OneTab também está disponível para o Firefox",
+    "message": "O DarkTab também está disponível para o Firefox",
     "description": ""
   },
   "convertTabsIntoAList": {
@@ -348,7 +348,7 @@
     "description": ""
   },
   "nowAvailableInLanguage": {
-    "message": "O OneTab agora está disponível em Português!",
+    "message": "O DarkTab agora está disponível em Português!",
     "description": "Important: Please substitute the word 'English' for the name of the language (e.g. Deutsch/Francais/etc) you are translating into."
   },
   "newExclamation": {

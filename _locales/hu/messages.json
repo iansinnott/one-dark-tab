@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Mutasd a OneTabet",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Mutasd a DarkTabet",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "lap",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Küldd az aktuális lapot a OneTabbe",
+    "message": "Küldd az aktuális lapot a DarkTabbe",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Rendezd az összes lapot a OneTabbe",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Rendezd az összes lapot a DarkTabbe",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Még egyetlen lap sincs a OneTabben",
+    "message": "Még egyetlen lap sincs a DarkTabben",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Ha több lapot nyitott meg, kattintson a böngészője eszköztárában a OneTab ikonra, és a megnyitott lapok itt fognak megjelenni.",
+    "message": "Ha több lapot nyitott meg, kattintson a böngészője eszköztárában a DarkTab ikonra, és a megnyitott lapok itt fognak megjelenni.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Az következő URL-listát ezen vagy egy másik számítógépen is importálhatja a OneTabbe",
+    "message": "Az következő URL-listát ezen vagy egy másik számítógépen is importálhatja a DarkTabbe",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Új ablakba, kivéve, ha a OneTab az egyetlen lap az aktuális ablakban",
+    "message": "Új ablakba, kivéve, ha a DarkTab az egyetlen lap az aktuális ablakban",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "A rögzített lapokat ne küldd a OneTabbe",
+    "message": "A rögzített lapokat ne küldd a DarkTabbe",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Rögzített lapot is küldhet a OneTabbe, ha jobb gombbal kattintva megnyitja a OneTab menüjét, majd rákattint a „Küldd ezt az egy lapot a OneTabbe” pontra",
+    "message": "Rögzített lapot is küldhet a DarkTabbe, ha jobb gombbal kattintva megnyitja a DarkTab menüjét, majd rákattint a „Küldd ezt az egy lapot a DarkTabbe” pontra",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "A rögzített lapok is mehetnek a OneTabbe",
+    "message": "A rögzített lapok is mehetnek a DarkTabbe",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Megjegyzés: egy lap akkor kerül rögzítésre, ha jobb gombbal rákattint a lapra, majd a „Rögzítsd a lapot” pontra. Vannak, akik szeretnek rögzíteni bizonyos lapokat, például a Facebookot vagy a Gmail-t, mert így könnyen megtalálják. A OneTab emlékszik rá, hogy egy lap rögzítve volt-e, amikor helyreállítja.",
+    "message": "Megjegyzés: egy lap akkor kerül rögzítésre, ha jobb gombbal rákattint a lapra, majd a „Rögzítsd a lapot” pontra. Vannak, akik szeretnek rögzíteni bizonyos lapokat, például a Facebookot vagy a Gmail-t, mert így könnyen megtalálják. A DarkTab emlékszik rá, hogy egy lap rögzítve volt-e, amikor helyreállítja.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Mutasd a OneTabet a böngésző első futtatása alkalmával",
+    "message": "Mutasd a DarkTabet a böngésző első futtatása alkalmával",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Ne nyisd meg a OneTabet automatikusan",
+    "message": "Ne nyisd meg a DarkTabet automatikusan",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Ha kézzel szeretné megnyitni a OneTabet, használja a jobb gomb menüjét, majd a „Mutasd a OneTabet\".",
+    "message": "Ha kézzel szeretné megnyitni a DarkTabet, használja a jobb gomb menüjét, majd a „Mutasd a DarkTabet\".",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Nyissa meg a lapo(ka)t és távolítsa el őket a OneTab listájáról",
+    "message": "Nyissa meg a lapo(ka)t és távolítsa el őket a DarkTab listájáról",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "A ctrl, a cmd vagy a shift gomb megnyomásával visszaállíthatja a lapo(ka)t anélkül, hogy törölné őket a OneTabből. Ha egy lapcsoportot lezár, a lapok nem lesznek eltávolítva a OneTabből, csak azután, hogy feloldotta az adott lapcsoportot.",
+    "message": "A ctrl, a cmd vagy a shift gomb megnyomásával visszaállíthatja a lapo(ka)t anélkül, hogy törölné őket a DarkTabből. Ha egy lapcsoportot lezár, a lapok nem lesznek eltávolítva a DarkTabből, csak azután, hogy feloldotta az adott lapcsoportot.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Tartsa ezeket a OneTab listáján",
+    "message": "Tartsa ezeket a DarkTab listáján",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "A OneTabben már szerepel egy URL, nem lesz újra hozzáadva. Ez csak akkor igaz, ha a OneTab ikonra kattint, vagy a jobb gomb menüjével több lapot is a OneTabbe küld. Ha a OneTab jobb gombos menüjéből csak egy bizonyos lapot küld a OneTabbe, az adott lap esetében engedélyezve lesz a másodpéldány.",
+    "message": "A DarkTabben már szerepel egy URL, nem lesz újra hozzáadva. Ez csak akkor igaz, ha a DarkTab ikonra kattint, vagy a jobb gomb menüjével több lapot is a DarkTabbe küld. Ha a DarkTab jobb gombos menüjéből csak egy bizonyos lapot küld a DarkTabbe, az adott lap esetében engedélyezve lesz a másodpéldány.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Zárd ki a DOMAIN.COM oldalt a OneTabből",
+    "message": "Zárd ki a DOMAIN.COM oldalt a DarkTabből",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Zárd ki ezt a honlapot a OneTabből",
+    "message": "Zárd ki ezt a honlapot a DarkTabből",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Küldd az összes lapot a OneTabbe",
+    "message": "Küldd az összes lapot a DarkTabbe",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Ezt a weblinket küldd a OneTabbe",
+    "message": "Ezt a weblinket küldd a DarkTabbe",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Csak ezt a lapot küldd a OneTabbe",
+    "message": "Csak ezt a lapot küldd a DarkTabbe",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Az összes többi lapot küldd a OneTabbe",
+    "message": "Az összes többi lapot küldd a DarkTabbe",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "A balra levő lapokat küldd a OneTabbe",
+    "message": "A balra levő lapokat küldd a DarkTabbe",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "A jobbra levő lapokat küldd a OneTabbe",
+    "message": "A jobbra levő lapokat küldd a DarkTabbe",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Az összes ablak összes lapját küldd a OneTabbe",
+    "message": "Az összes ablak összes lapját küldd a DarkTabbe",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,15 +328,15 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Add hozzá a OneTabet most",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Add hozzá a DarkTabet most",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Nincs szükség bejelentkezésre vagy regisztrációra",
     "description": ""
   },
   "OneTabAlsoAvailableForFirefox": {
-    "message": "A OneTab Firefoxra is előrhető",
+    "message": "A DarkTab Firefoxra is előrhető",
     "description": ""
   },
   "convertTabsIntoAList": {
@@ -348,7 +348,7 @@
     "description": ""
   },
   "nowAvailableInLanguage": {
-    "message": "A OneTab immár magyarul is elérhető!",
+    "message": "A DarkTab immár magyarul is elérhető!",
     "description": "Important: Please substitute the word 'English' for the name of the language (e.g. Deutsch/Francais/etc) you are translating into."
   },
   "newExclamation": {

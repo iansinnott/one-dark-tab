@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Tampilkan OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Tampilkan DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "tab",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Kirim tab saat ini ke OneTab",
+    "message": "Kirim tab saat ini ke DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Masukkan semua tab ke dalam OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Masukkan semua tab ke dalam DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Anda belum memiliki tab di OneTab",
+    "message": "Anda belum memiliki tab di DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Ketika Anda membuka beberapa tab, klik ikon OneTab pada toolbar browser Anda dan tab Anda yang terbuka akan muncul di sini.",
+    "message": "Ketika Anda membuka beberapa tab, klik ikon DarkTab pada toolbar browser Anda dan tab Anda yang terbuka akan muncul di sini.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Daftar URL berikut juga dapat diimpor kembali ke dalam OneTab pada komputer ini atau komputer lainnya",
+    "message": "Daftar URL berikut juga dapat diimpor kembali ke dalam DarkTab pada komputer ini atau komputer lainnya",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Jendela baru, kecuali OneTab merupakan satu-satunya tab di jendela saat ini",
+    "message": "Jendela baru, kecuali DarkTab merupakan satu-satunya tab di jendela saat ini",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Jangan kirimkan tab yang disematkan ke OneTab",
+    "message": "Jangan kirimkan tab yang disematkan ke DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Anda masih dapat mengirimkan tab yang disematkan ke OneTab secara manual dengan mengklik kanan di dalam halaman web untuk mengakses menu OneTab, lalu mengklik ‘Kirim hanya tab ini ke OneTab’",
+    "message": "Anda masih dapat mengirimkan tab yang disematkan ke DarkTab secara manual dengan mengklik kanan di dalam halaman web untuk mengakses menu DarkTab, lalu mengklik ‘Kirim hanya tab ini ke DarkTab’",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Izinkan tab yang disematkan untuk dikirimkan ke OneTab",
+    "message": "Izinkan tab yang disematkan untuk dikirimkan ke DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Catatan: Suatu tab menjadi ‘disematkan’ ketika Anda mengklik kanan pada tab, lalu mengklik ‘Sematkan tab’. Sebagian orang senang menjadikan situs-situs seperti Facebook atau Gmail disematkan agar mereka dapat menemukannya kembali dengan mudah. OneTab akan mengingat tab yang disematkan ketika Anda memulihkannya kembali.",
+    "message": "Catatan: Suatu tab menjadi ‘disematkan’ ketika Anda mengklik kanan pada tab, lalu mengklik ‘Sematkan tab’. Sebagian orang senang menjadikan situs-situs seperti Facebook atau Gmail disematkan agar mereka dapat menemukannya kembali dengan mudah. DarkTab akan mengingat tab yang disematkan ketika Anda memulihkannya kembali.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Tampilkan OneTab setiap kali Anda memulai browser web Anda untuk pertama kalinya",
+    "message": "Tampilkan DarkTab setiap kali Anda memulai browser web Anda untuk pertama kalinya",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Jangan buka OneTab secara otomatis",
+    "message": "Jangan buka DarkTab secara otomatis",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Untuk membuka OneTab secara manual, gunakan menu klik kanan, lalu pilihlah ‘Tampilkan OneTab’",
+    "message": "Untuk membuka DarkTab secara manual, gunakan menu klik kanan, lalu pilihlah ‘Tampilkan DarkTab’",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Buka tab dan hapus dari daftar OneTab Anda",
+    "message": "Buka tab dan hapus dari daftar DarkTab Anda",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Anda tetap dapat menekan Ctrl, Cmd, atau Shift untuk memulihkan tab tanpa menghapusnya dari OneTab. Jika Anda mengatur kelompok tab Anda sebagai ‘terkunci’, maka tab tersebut tidak akan dihapus dari OneTab, kecuali Anda membuka kunci kelompok tab tersebut terlebih dahulu.",
+    "message": "Anda tetap dapat menekan Ctrl, Cmd, atau Shift untuk memulihkan tab tanpa menghapusnya dari DarkTab. Jika Anda mengatur kelompok tab Anda sebagai ‘terkunci’, maka tab tersebut tidak akan dihapus dari DarkTab, kecuali Anda membuka kunci kelompok tab tersebut terlebih dahulu.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Tetap simpan dalam daftar OneTab Anda",
+    "message": "Tetap simpan dalam daftar DarkTab Anda",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Jika OneTab telah memuat URL dari suatu tab, maka tab tersebut tidak akan ditambahkan lagi. Hal ini hanya berlaku jika Anda mengklik ikon OneTab atau menggunakan menu klik kanan untuk mengirimkan beberapa tab ke OneTab. Jika Anda menggunakan menu OneTab klik kanan untuk mengirimkan hanya suatu tab tertentu ke OneTab, maka tab duplikat akan diizinkan untuk tab tertentu tersebut.",
+    "message": "Jika DarkTab telah memuat URL dari suatu tab, maka tab tersebut tidak akan ditambahkan lagi. Hal ini hanya berlaku jika Anda mengklik ikon DarkTab atau menggunakan menu klik kanan untuk mengirimkan beberapa tab ke DarkTab. Jika Anda menggunakan menu DarkTab klik kanan untuk mengirimkan hanya suatu tab tertentu ke DarkTab, maka tab duplikat akan diizinkan untuk tab tertentu tersebut.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Kecualikan DOMAIN.COM dari OneTab",
+    "message": "Kecualikan DOMAIN.COM dari DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Kecualikan situs web ini dari OneTab",
+    "message": "Kecualikan situs web ini dari DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Kirim semua tab ke OneTab",
+    "message": "Kirim semua tab ke DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Kirim tautan web ini ke OneTab",
+    "message": "Kirim tautan web ini ke DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Kirim hanya tab ini ke OneTab",
+    "message": "Kirim hanya tab ini ke DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Kirim semua tab kecuali tab ini ke OneTab",
+    "message": "Kirim semua tab kecuali tab ini ke DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Kirim tab di kiri ke OneTab",
+    "message": "Kirim tab di kiri ke DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Kirim tab di kanan ke OneTab",
+    "message": "Kirim tab di kanan ke DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Kirim semua tab dari semua jendela ke OneTab",
+    "message": "Kirim semua tab dari semua jendela ke DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Tambahkan OneTab sekarang",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Tambahkan DarkTab sekarang",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Tanpa pendaftaran atau registrasi",

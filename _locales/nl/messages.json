@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Geef OneTab weer",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Geef DarkTab weer",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "tabblad",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Stuur het huidige tabblad naar OneTab",
+    "message": "Stuur het huidige tabblad naar DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Breng alle tabbladen over  naar OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Breng alle tabbladen over  naar DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "U heeft geen tabbladen in OneTab",
+    "message": "U heeft geen tabbladen in DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Wanneer er meerdere tabbladen open zijn, klik dan op het OneTab-icoontje in uw browser werkbalk en uw geopende tabbladen zullen hier verschijnen.",
+    "message": "Wanneer er meerdere tabbladen open zijn, klik dan op het DarkTab-icoontje in uw browser werkbalk en uw geopende tabbladen zullen hier verschijnen.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "De volgende lijst van URL's kunnen ook terug geïmporteerd worden naar OneTab op deze of een andere computer",
+    "message": "De volgende lijst van URL's kunnen ook terug geïmporteerd worden naar DarkTab op deze of een andere computer",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Een nieuw venster, tenzij OneTab het enige tabblad in het huidige venster is",
+    "message": "Een nieuw venster, tenzij DarkTab het enige tabblad in het huidige venster is",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Heeft geen gepinde tabbladen verzonden naar OneTab",
+    "message": "Heeft geen gepinde tabbladen verzonden naar DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "U kunt nog steeds handmatig een gepind tabblad naar OneTab sturen door rechts op de webpagina te klikken om toegang tot het OneTab-menu te krijgen, en vervolgens op 'Verstuur alleen dit tabblad naar OneTab' te klikken",
+    "message": "U kunt nog steeds handmatig een gepind tabblad naar DarkTab sturen door rechts op de webpagina te klikken om toegang tot het DarkTab-menu te krijgen, en vervolgens op 'Verstuur alleen dit tabblad naar DarkTab' te klikken",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Sta toe dat ​​gepinde tabbladen naar OneTab worden verzonden",
+    "message": "Sta toe dat ​​gepinde tabbladen naar DarkTab worden verzonden",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Opmerking: Een tabblad wordt 'gepind' wanneer u met de rechtermuisknop op het tabblad klikt, en vervolgens op 'Pin-tabblad' klikt. Sommige mensen willen graag websites zoals Facebook of Gmail pinnen zodat zij deze gemakkelijk kunnen vinden. OneTab zal onthouden of een tabblad is gepind wanneer u het herstelt..",
+    "message": "Opmerking: Een tabblad wordt 'gepind' wanneer u met de rechtermuisknop op het tabblad klikt, en vervolgens op 'Pin-tabblad' klikt. Sommige mensen willen graag websites zoals Facebook of Gmail pinnen zodat zij deze gemakkelijk kunnen vinden. DarkTab zal onthouden of een tabblad is gepind wanneer u het herstelt..",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Toon OneTab wanneer u uw webbrowser voor de eerste keer start",
+    "message": "Toon DarkTab wanneer u uw webbrowser voor de eerste keer start",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Open OneTab niet automatisch",
+    "message": "Open DarkTab niet automatisch",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Om OneTab handmatig te openen, gebruik dan het rechtermuisknop-menu en kies 'Toon OneTab'",
+    "message": "Om DarkTab handmatig te openen, gebruik dan het rechtermuisknop-menu en kies 'Toon DarkTab'",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Open het tabblad (de tabbladen) en verwijder deze uit uw OneTab lijst",
+    "message": "Open het tabblad (de tabbladen) en verwijder deze uit uw DarkTab lijst",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "U kunt nog steeds op ctrl, cmd of shift klikken om het tabblad (de tabbladen) te herstellen, zonder deze uit OneTab te verwijderen. Als u een van uw tabblad-groepen instelt als 'vergrendeld', dan kunnen de tabbladen niet worden verwijderd uit OneTab tenzij u die tabblad-groep eerst ontgrendelt.",
+    "message": "U kunt nog steeds op ctrl, cmd of shift klikken om het tabblad (de tabbladen) te herstellen, zonder deze uit DarkTab te verwijderen. Als u een van uw tabblad-groepen instelt als 'vergrendeld', dan kunnen de tabbladen niet worden verwijderd uit DarkTab tenzij u die tabblad-groep eerst ontgrendelt.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Bewaar ze in uw OneTab lijst",
+    "message": "Bewaar ze in uw DarkTab lijst",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Als OneTab al de URL van een tabblad bevat, zal het niet meer worden toegevoegd. Dit geldt alleen wanneer u op het OneTab-icoontje klikt of gebruik maakt van het  rechtermuisknop-menu om meerdere tabbladen naar OneTab te sturen. Als u met de rechtermuisknop op het OneTab menu klikt om alleen een specifiek tabblad naar OneTab te sturen, dan wordt de kopie van dat specifiek tabblad toegestaan.",
+    "message": "Als DarkTab al de URL van een tabblad bevat, zal het niet meer worden toegevoegd. Dit geldt alleen wanneer u op het DarkTab-icoontje klikt of gebruik maakt van het  rechtermuisknop-menu om meerdere tabbladen naar DarkTab te sturen. Als u met de rechtermuisknop op het DarkTab menu klikt om alleen een specifiek tabblad naar DarkTab te sturen, dan wordt de kopie van dat specifiek tabblad toegestaan.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Sluit DOMAIN.COM uit van OneTab",
+    "message": "Sluit DOMAIN.COM uit van DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Sluit deze website uit van OneTab",
+    "message": "Sluit deze website uit van DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Stuur alle tabbladen naar OneTab",
+    "message": "Stuur alle tabbladen naar DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Stuur deze weblink naar OneTab",
+    "message": "Stuur deze weblink naar DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Stuur alleen dit tabblad naar OneTab",
+    "message": "Stuur alleen dit tabblad naar DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Stuur alle tabbladen, met uitzondering van  dit tabblad, naar OneTab",
+    "message": "Stuur alle tabbladen, met uitzondering van  dit tabblad, naar DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Stuur tabbladen aan de linkerkant naar OneTab",
+    "message": "Stuur tabbladen aan de linkerkant naar DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Stuur tabbladen aan de rechterkant naar OneTab",
+    "message": "Stuur tabbladen aan de rechterkant naar DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Stuur alle tabbladen vanuit alle vensters naar OneTab",
+    "message": "Stuur alle tabbladen vanuit alle vensters naar DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Voeg OneTab nu toe",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Voeg DarkTab nu toe",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Geen aanmelding of registratie vereist",

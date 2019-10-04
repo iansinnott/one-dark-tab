@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
     "message": "OneTab दिखाएं",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "टैब",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "वर्तमान टैब OneTab को भेजें",
+    "message": "वर्तमान टैब DarkTab को भेजें",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "सभी टैब्स को OneTab में लाएं",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "सभी टैब्स को DarkTab में लाएं",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "आपके पास अभी तक OneTab में कोई टैब्स नहीं हैं",
+    "message": "आपके पास अभी तक DarkTab में कोई टैब्स नहीं हैं",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "जब आपके पास कई टैब्स खुले हों, अपने ब्राउजर की टूलबार पर OneTab आइकन क्लिक करें और आपके खुले हुए टैब्स यहां दिखेंगे।",
+    "message": "जब आपके पास कई टैब्स खुले हों, अपने ब्राउजर की टूलबार पर DarkTab आइकन क्लिक करें और आपके खुले हुए टैब्स यहां दिखेंगे।",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "URLs की निम्नलिखित लिस्ट भी इस या एक अलग कंप्टूयर पर OneTab में वापस इम्पोर्ट की जा सकती है",
+    "message": "URLs की निम्नलिखित लिस्ट भी इस या एक अलग कंप्टूयर पर DarkTab में वापस इम्पोर्ट की जा सकती है",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "एक नई विंडो, जब तक OneTab वर्तमान विंडो में एकमात्र टैब है",
+    "message": "एक नई विंडो, जब तक DarkTab वर्तमान विंडो में एकमात्र टैब है",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "पिन किए गए टैब्स OneTab पर न भेजें",
+    "message": "पिन किए गए टैब्स DarkTab पर न भेजें",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "आप अभी भी एक पिन किए गए टैब को OneTab पर OneTab मेन्यू तक पहुंचने के लिए वेब पेज के अंदर राइट क्लिक कर स्वयं भेज सकते हैं, और फिर ‘सेंड ओनली दिस टैब टू OneTab’ क्लिक करें",
+    "message": "आप अभी भी एक पिन किए गए टैब को DarkTab पर DarkTab मेन्यू तक पहुंचने के लिए वेब पेज के अंदर राइट क्लिक कर स्वयं भेज सकते हैं, और फिर ‘सेंड ओनली दिस टैब टू DarkTab’ क्लिक करें",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "पिन किए गए टैब्स को OneTab पर भेजने की अनुमति दें",
+    "message": "पिन किए गए टैब्स को DarkTab पर भेजने की अनुमति दें",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "ध्यान देः एक टैब तब ‘पिन किया गया’ बन जाता है जब आप टैब पर राइट क्लिक करते हैं और ‘पिन टैब’ को क्लिक करते हैं। कुछ व्यक्ति फेसबुक या जीमेल जैसी साइट्स को पिन करना पसंद करते हैं जिससे वे उन्हें आसानी से खोज सकें। OneTab यह याद रखेगा कि एक टैब पिन किया गया था या नहीं जब आप उसे बहाल करेंगे।",
+    "message": "ध्यान देः एक टैब तब ‘पिन किया गया’ बन जाता है जब आप टैब पर राइट क्लिक करते हैं और ‘पिन टैब’ को क्लिक करते हैं। कुछ व्यक्ति फेसबुक या जीमेल जैसी साइट्स को पिन करना पसंद करते हैं जिससे वे उन्हें आसानी से खोज सकें। DarkTab यह याद रखेगा कि एक टैब पिन किया गया था या नहीं जब आप उसे बहाल करेंगे।",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -204,7 +204,7 @@
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "OneTab को स्वयं खोलने के लिए, राइट क्लिक मेन्यू का उपयोग करें और ‘डिस्प्ले OneTab’ को चुनें",
+    "message": "OneTab को स्वयं खोलने के लिए, राइट क्लिक मेन्यू का उपयोग करें और ‘डिस्प्ले DarkTab’ को चुनें",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "टैब (टैब्स) को खोलें और उसे अपनी OneTab लिस्ट से हटाएं",
+    "message": "टैब (टैब्स) को खोलें और उसे अपनी DarkTab लिस्ट से हटाएं",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "आप अभी भी टैब (टैब्स) को OneTab से हटाए बिना ctrl, cmd या shift दबाकर बहाल कर सकते हैं। अगर आप अपने टैब समूहों को ‘लॉक्ड’ के तौर पर तय करते हैं तो टैब्स OneTab से तब तक नहीं हटाए जाएंगे जब तक आप पहले उस टैब समूह को अनलॉक नहीं करते।",
+    "message": "आप अभी भी टैब (टैब्स) को DarkTab से हटाए बिना ctrl, cmd या shift दबाकर बहाल कर सकते हैं। अगर आप अपने टैब समूहों को ‘लॉक्ड’ के तौर पर तय करते हैं तो टैब्स DarkTab से तब तक नहीं हटाए जाएंगे जब तक आप पहले उस टैब समूह को अनलॉक नहीं करते।",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "उन्हें अपनी OneTab लिस्ट में रखें",
+    "message": "उन्हें अपनी DarkTab लिस्ट में रखें",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "अगर OneTab में पहले से एक टैब का URL है, वह दोबारा जोड़ा नहीं जाएगा। यह तभी लागू होता है जब आप OneTab आइकन को क्लिक करते हैं या कई टैब्स को OneTab पर भेजने के लिए के लिए राइट क्लिक मेन्यू का उपयोग करते हैं। अगर आप एक विशेष टैब को OneTab पर भेजने के लिए राइट क्लिक मेन्यू का उपयोग करते\nहैं, तब उस विशेष टैब के लिए डुप्लिकेट की अनुमति दी जाएगी।",
+    "message": "अगर DarkTab में पहले से एक टैब का URL है, वह दोबारा जोड़ा नहीं जाएगा। यह तभी लागू होता है जब आप DarkTab आइकन को क्लिक करते हैं या कई टैब्स को DarkTab पर भेजने के लिए के लिए राइट क्लिक मेन्यू का उपयोग करते हैं। अगर आप एक विशेष टैब को DarkTab पर भेजने के लिए राइट क्लिक मेन्यू का उपयोग करते\nहैं, तब उस विशेष टैब के लिए डुप्लिकेट की अनुमति दी जाएगी।",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "DOMAIN.COM को OneTab से बाहर करें",
+    "message": "DOMAIN.COM को DarkTab से बाहर करें",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "इस वेब साइट को OneTab से बाहर करें",
+    "message": "इस वेब साइट को DarkTab से बाहर करें",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "सभी टैब्स को OneTab पर भेजें",
+    "message": "सभी टैब्स को DarkTab पर भेजें",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "इस वेब लिंक को OneTab पर भेजें",
+    "message": "इस वेब लिंक को DarkTab पर भेजें",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "केवल इस टैब को OneTab पर भेजें",
+    "message": "केवल इस टैब को DarkTab पर भेजें",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "इस टैब को छोड़कर सभी टैब्स को OneTab पर भेजें",
+    "message": "इस टैब को छोड़कर सभी टैब्स को DarkTab पर भेजें",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "बाएं मौजूद सभी टैब्स को OneTab पर भेजें",
+    "message": "बाएं मौजूद सभी टैब्स को DarkTab पर भेजें",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "दाएं मौजूद सभी टैब्स को OneTab पर भेजें",
+    "message": "दाएं मौजूद सभी टैब्स को DarkTab पर भेजें",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "सभी विंडो से सभी टैब्स को OneTab पर भेजें",
+    "message": "सभी विंडो से सभी टैब्स को DarkTab पर भेजें",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "अभी OneTab को जोड़ें",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "अभी DarkTab को जोड़ें",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "किसी साइनअप या रजिस्ट्रेशन की आवश्यकता नहीं",

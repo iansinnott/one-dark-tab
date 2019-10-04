@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
     "message": "OneTab 표시",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "탭",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "현재의 탭을 OneTab으로 보내기",
+    "message": "현재의 탭을 DarkTab으로 보내기",
     "description": ""
   },
   "restoreAll": {
@@ -80,8 +80,8 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "모든 탭을 OneTab으로 가져오세요",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "모든 탭을 DarkTab으로 가져오세요",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
     "message": "OneTab에 아직 탭이 없습니다.",
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "여러 탭이 열려 있을 때, 브라우저 툴바의 OneTab 아이콘을 클릭하면 열려 있는 탭들이 여기에 나타납니다.",
+    "message": "여러 탭이 열려 있을 때, 브라우저 툴바의 DarkTab 아이콘을 클릭하면 열려 있는 탭들이 여기에 나타납니다.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "또한 URL의 다음 목록을 이 컴퓨터 또는 다른 컴퓨터의 OneTab으로 가져올 수 있습니다.",
+    "message": "또한 URL의 다음 목록을 이 컴퓨터 또는 다른 컴퓨터의 DarkTab으로 가져올 수 있습니다.",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "핀 고정 탭을 OneTab으로 보내지 마십시오.",
+    "message": "핀 고정 탭을 DarkTab으로 보내지 마십시오.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "웹페이지 내에서 오른쪽 클릭하여 OneTab 메뉴에 들어간 다음, '이 탭만 OneTab에 보내기'를 클릭하여 핀 고정 탭을 OneTab으로 보낼 수 있습니다.",
+    "message": "웹페이지 내에서 오른쪽 클릭하여 DarkTab 메뉴에 들어간 다음, '이 탭만 DarkTab에 보내기'를 클릭하여 핀 고정 탭을 DarkTab으로 보낼 수 있습니다.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "핀 고정 탭을 OneTab으로 전송합니다.",
+    "message": "핀 고정 탭을 DarkTab으로 전송합니다.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "주: 탭을 오른쪽 클릭하고 '핀 탭'을 클릭하면 탭이 '핀 고정'됩니다. 어떤 분들은 페이스북이나 Gmail을 핀 고정하여 쉽게 찾을 수 있도록 합니다. OneTab은 복원할 때 핀 고정된 탭이 있는지를 기억합니다.",
+    "message": "주: 탭을 오른쪽 클릭하고 '핀 탭'을 클릭하면 탭이 '핀 고정'됩니다. 어떤 분들은 페이스북이나 Gmail을 핀 고정하여 쉽게 찾을 수 있도록 합니다. DarkTab은 복원할 때 핀 고정된 탭이 있는지를 기억합니다.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,7 +196,7 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "웹브라우저를 처음 시작할 때마다 OneTab 표시",
+    "message": "웹브라우저를 처음 시작할 때마다 DarkTab 표시",
     "description": ""
   },
   "optionStartupLaunchNone": {
@@ -212,11 +212,11 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "탭을 연 다음 OneTab 목록에서 제거",
+    "message": "탭을 연 다음 DarkTab 목록에서 제거",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "탭을 OneTab에서 제거하지 않고, Ctrl +Cmd 또는 시프트를 눌러 탭을 복원할 수 있습니다. 임의의 탭 그룹을 \"잠금\"으로 설정한 경우, 해당 탭은 먼저 그 탭 그룹을 잠금 해제하지 않는 한 OneTab에서 제거되지 않습니다.",
+    "message": "탭을 DarkTab에서 제거하지 않고, Ctrl +Cmd 또는 시프트를 눌러 탭을 복원할 수 있습니다. 임의의 탭 그룹을 \"잠금\"으로 설정한 경우, 해당 탭은 먼저 그 탭 그룹을 잠금 해제하지 않는 한 DarkTab에서 제거되지 않습니다.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "OneTab에는 이미 탭의 URL이 포함되어 있으며, 다시 추가되지 않습니다. 이는 OneTab 아이콘을 클릭하거나 마우스 오른쪽 클릭 메뉴를 사용하여 다수의 탭을 OneTab에 보내는 경우에만 적용됩니다. 오른쪽 클릭 OneTab 메뉴로 특정 탭을 OneTab에 보내기만 할 경우, 해당 특정 탭에 대해서만 중복이 허용됩니다.",
+    "message": "OneTab에는 이미 탭의 URL이 포함되어 있으며, 다시 추가되지 않습니다. 이는 DarkTab 아이콘을 클릭하거나 마우스 오른쪽 클릭 메뉴를 사용하여 다수의 탭을 DarkTab에 보내는 경우에만 적용됩니다. 오른쪽 클릭 DarkTab 메뉴로 특정 탭을 DarkTab에 보내기만 할 경우, 해당 특정 탭에 대해서만 중복이 허용됩니다.",
     "description": ""
   },
   "namedTabGroups": {
@@ -256,31 +256,31 @@
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "모든 탭을 OneTab에 보내기",
+    "message": "모든 탭을 DarkTab에 보내기",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "이 웹 링크를 OneTab에 보내기",
+    "message": "이 웹 링크를 DarkTab에 보내기",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "이 탭만 OneTab에 보내기",
+    "message": "이 탭만 DarkTab에 보내기",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "이 탭을 제외한 모든 탭을 OneTab에 보내기",
+    "message": "이 탭을 제외한 모든 탭을 DarkTab에 보내기",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "왼쪽의 탭을 OneTab에 보내기",
+    "message": "왼쪽의 탭을 DarkTab에 보내기",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "오른쪽의 탭을 OneTab에 보내기",
+    "message": "오른쪽의 탭을 DarkTab에 보내기",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "모든 창의 모든 탭을 OneTab에 보내기",
+    "message": "모든 창의 모든 탭을 DarkTab에 보내기",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "지금 OneTab 추가",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "지금 DarkTab 추가",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "가입이나 등록이 필요없습니다.",

@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
     "message": "显示OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "标签页",
@@ -81,7 +81,7 @@
   },
   "bringAllTabsIntoOneTab": {
     "message": "发送全部标签页至OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
     "message": "您的OneTab中还没有任何标签页",
@@ -329,7 +329,7 @@
   },
   "addOneTabNow": {
     "message": "现在添加OneTab",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "无需注册或登记",

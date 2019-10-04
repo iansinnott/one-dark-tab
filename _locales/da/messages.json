@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Vis OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Vis DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "fane",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Send den aktuelle fane til OneTab",
+    "message": "Send den aktuelle fane til DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Flyt alle faner til OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Flyt alle faner til DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Du har endnu ikke nogen faner i OneTab",
+    "message": "Du har endnu ikke nogen faner i DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Når du har flere faner åbne, skal du klikke på OneTab-ikonet på værktøjslinjen i din browser, og dine åbne faner vil vises her.",
+    "message": "Når du har flere faner åbne, skal du klikke på DarkTab-ikonet på værktøjslinjen i din browser, og dine åbne faner vil vises her.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Den følgende liste med URL-adresser kan også importeres tilbage til OneTab på denne eller en anden computer",
+    "message": "Den følgende liste med URL-adresser kan også importeres tilbage til DarkTab på denne eller en anden computer",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Et nyt vindue, medmindre OneTab er den eneste fane i det aktuelle vindue",
+    "message": "Et nyt vindue, medmindre DarkTab er den eneste fane i det aktuelle vindue",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Send ikke fastgjorte faner til OneTab",
+    "message": "Send ikke fastgjorte faner til DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Du kan stadig manuelt sende en fane, der er fastgjort til OneTab ved at højreklikke på hjemmesiden for at få adgang til OneTab-menuen og derefter klikke på \"Send kun denne fane til OneTab\"",
+    "message": "Du kan stadig manuelt sende en fane, der er fastgjort til DarkTab ved at højreklikke på hjemmesiden for at få adgang til DarkTab-menuen og derefter klikke på \"Send kun denne fane til DarkTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Tillad at fastgjorte faner sendes til OneTab",
+    "message": "Tillad at fastgjorte faner sendes til DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Bemærk: En fane bliver \"fastgjort\", når du højreklikker på fanen, og klikker på \"Fastgør fane\". Nogle mennesker kan lide at fastgøre Facebook eller Gmail, så de nemt kan findes. OneTab vil huske, om en fane blev fastgjort, når du gendanner den.",
+    "message": "Bemærk: En fane bliver \"fastgjort\", når du højreklikker på fanen, og klikker på \"Fastgør fane\". Nogle mennesker kan lide at fastgøre Facebook eller Gmail, så de nemt kan findes. DarkTab vil huske, om en fane blev fastgjort, når du gendanner den.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Vis OneTab når du starter din browser for første gang",
+    "message": "Vis DarkTab når du starter din browser for første gang",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Åbn ikke OneTab automatisk",
+    "message": "Åbn ikke DarkTab automatisk",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Hvis du vil åbne OneTab manuelt, skal du bruge højrekliksmenuen og vælge \"Vis OneTab\"",
+    "message": "Hvis du vil åbne DarkTab manuelt, skal du bruge højrekliksmenuen og vælge \"Vis DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Åbn fane(r), og fjern dem fra din OneTab-liste",
+    "message": "Åbn fane(r), og fjern dem fra din DarkTab-liste",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Du kan stadig trykke ctrl, cmd eller shift for at gendanne fanen(rne) uden, at de(n) fjernes fra OneTab. Hvis du indstiller nogen af ​​dine fanegrupper som \"låst\", fjernes fanerne ikke fra OneTab, medmindre du låser pågældende fanegruppe op først.",
+    "message": "Du kan stadig trykke ctrl, cmd eller shift for at gendanne fanen(rne) uden, at de(n) fjernes fra DarkTab. Hvis du indstiller nogen af ​​dine fanegrupper som \"låst\", fjernes fanerne ikke fra DarkTab, medmindre du låser pågældende fanegruppe op først.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Opbevar dem i din OneTab-liste",
+    "message": "Opbevar dem i din DarkTab-liste",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Hvis OneTab allerede indeholder URL-adressen på en fane, vil den ikke blive tilføjet igen. Dette gælder kun, når du klikker på OneTab-ikonet eller bruger højrekliksmenuen til at sende flere faner til OneTab. Hvis du bruger OneTabs højrekliksmenu til kun at sende en bestemt fane til OneTab, vil kopien være tilladt for den specifikke fane.",
+    "message": "Hvis DarkTab allerede indeholder URL-adressen på en fane, vil den ikke blive tilføjet igen. Dette gælder kun, når du klikker på DarkTab-ikonet eller bruger højrekliksmenuen til at sende flere faner til DarkTab. Hvis du bruger DarkTabs højrekliksmenu til kun at sende en bestemt fane til DarkTab, vil kopien være tilladt for den specifikke fane.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Udeluk DOMAIN.COM fra OneTab",
+    "message": "Udeluk DOMAIN.COM fra DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Udeluk denne hjemmeside fra OneTab",
+    "message": "Udeluk denne hjemmeside fra DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Send alle faner til OneTab",
+    "message": "Send alle faner til DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Send dette link til OneTab",
+    "message": "Send dette link til DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Send kun denne fane til OneTab",
+    "message": "Send kun denne fane til DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Send alle faner undtagen denne fane til OneTab",
+    "message": "Send alle faner undtagen denne fane til DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Send fanerne i venstre side til OneTab",
+    "message": "Send fanerne i venstre side til DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Send fanerne i højre side til OneTab",
+    "message": "Send fanerne i højre side til DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Send alle faner fra alle vinduer til OneTab",
+    "message": "Send alle faner fra alle vinduer til DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Tilføj OneTab nu",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Tilføj DarkTab nu",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Det er ikke nødvendigt med tilmelding eller registrering",

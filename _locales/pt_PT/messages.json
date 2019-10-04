@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Mostrar OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Mostrar DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "separador",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Enviar o separador atual para OneTab",
+    "message": "Enviar o separador atual para DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Importar todos os separadores para OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Importar todos os separadores para DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Ainda não tem nenhuns separadores em OneTab",
+    "message": "Ainda não tem nenhuns separadores em DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Quando tiver vários separadores abertos, clique no ícone OneTab na barra de ferramentas do seu navegador e os seus separadores abertos aparecerão aqui.",
+    "message": "Quando tiver vários separadores abertos, clique no ícone DarkTab na barra de ferramentas do seu navegador e os seus separadores abertos aparecerão aqui.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "A seguinte lista de URLs também pode ser importada novamente para o OneTab neste ou noutro computador",
+    "message": "A seguinte lista de URLs também pode ser importada novamente para o DarkTab neste ou noutro computador",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Uma nova janela, a menos que OneTab seja o único separador na janela atual",
+    "message": "Uma nova janela, a menos que DarkTab seja o único separador na janela atual",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Não enviar separadores fixos para OneTab",
+    "message": "Não enviar separadores fixos para DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Continua a poder enviar um separador fixo para o OneTab ao clicar com o botão direito dentro da página web, acedendo assim ao menu OneTab, e então clicar em 'Enviar apenas este separador para OneTab'",
+    "message": "Continua a poder enviar um separador fixo para o DarkTab ao clicar com o botão direito dentro da página web, acedendo assim ao menu DarkTab, e então clicar em 'Enviar apenas este separador para DarkTab'",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Permitir que separadores fixos sejam enviados para OneTab",
+    "message": "Permitir que separadores fixos sejam enviados para DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Nota: Um separador torna-se 'fixo' quando clica com o botão direito nele e depois clica em 'Fixar separador'. Algumas pessoas gostam de tornar alguns sites como Facebook ou Gmail fixos, para que possam localizá-los facilmente. OneTab vai lembrar-se se um deteminado separador estava fixo quando o restaurar.",
+    "message": "Nota: Um separador torna-se 'fixo' quando clica com o botão direito nele e depois clica em 'Fixar separador'. Algumas pessoas gostam de tornar alguns sites como Facebook ou Gmail fixos, para que possam localizá-los facilmente. DarkTab vai lembrar-se se um deteminado separador estava fixo quando o restaurar.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Mostrar OneTab sempre que iniciar o navegador pela primeira vez",
+    "message": "Mostrar DarkTab sempre que iniciar o navegador pela primeira vez",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Não abrir OneTab automaticamente",
+    "message": "Não abrir DarkTab automaticamente",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Para abrir OneTab manualmente, use o menu do botão direito e selecione 'Mostrar OneTab'",
+    "message": "Para abrir DarkTab manualmente, use o menu do botão direito e selecione 'Mostrar DarkTab'",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Abrir o(s) separador(es) e removê-los da sua lista OneTab",
+    "message": "Abrir o(s) separador(es) e removê-los da sua lista DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Pode ainda premir ctrl, cmd ou shift para restaurar o(s) separador(es) sem os remover de OneTab. Se definir algum dos seus grupos de separadores como 'bloqueado', então os separadores não serão removidos de OneTab a menos que desbloqueie esse grupo de separadores primeiro.",
+    "message": "Pode ainda premir ctrl, cmd ou shift para restaurar o(s) separador(es) sem os remover de DarkTab. Se definir algum dos seus grupos de separadores como 'bloqueado', então os separadores não serão removidos de DarkTab a menos que desbloqueie esse grupo de separadores primeiro.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Mantenha-os na sua lista OneTab",
+    "message": "Mantenha-os na sua lista DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Se o URL de um separador já constar em OneTab, este não será adicionado novamente. Isto só se aplica quando clicar no ícone de OneTab ou usar o menu do botão direito para enviar vários separadores para OneTab. Se usar o menu de botão direito de OneTab para enviar apenas um separador específico para OneTab, então a duplicação será permitida para esse separador em específico.",
+    "message": "Se o URL de um separador já constar em DarkTab, este não será adicionado novamente. Isto só se aplica quando clicar no ícone de DarkTab ou usar o menu do botão direito para enviar vários separadores para DarkTab. Se usar o menu de botão direito de DarkTab para enviar apenas um separador específico para DarkTab, então a duplicação será permitida para esse separador em específico.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Excluir DOMAIN.COM de OneTab",
+    "message": "Excluir DOMAIN.COM de DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Excluir este website de OneTab",
+    "message": "Excluir este website de DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Enviar todos os separadores para OneTab",
+    "message": "Enviar todos os separadores para DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Enviar esta ligação web para OneTab",
+    "message": "Enviar esta ligação web para DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Enviar apenas este separador para OneTab",
+    "message": "Enviar apenas este separador para DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Enviar todos os separadores, exceptuando deste, para OneTab",
+    "message": "Enviar todos os separadores, exceptuando deste, para DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Enviar os separadores à esquerda para OneTab",
+    "message": "Enviar os separadores à esquerda para DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Enviar os separadores à direita para OneTab",
+    "message": "Enviar os separadores à direita para DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Enviar todos os separadores de todas as janelas para OneTab",
+    "message": "Enviar todos os separadores de todas as janelas para DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Adicionar OneTab agora",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Adicionar DarkTab agora",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Nenhuma inscrição ou registro obrigatório",

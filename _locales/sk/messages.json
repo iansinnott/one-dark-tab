@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Zobraziť OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Zobraziť DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "karta",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Poslať aktuálnu kartu do aplikácie OneTab",
+    "message": "Poslať aktuálnu kartu do aplikácie DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Previesť všetky karty do aplikácie OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Previesť všetky karty do aplikácie DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "V aplikácii OneTab nemáte ešte žiadne karty",
+    "message": "V aplikácii DarkTab nemáte ešte žiadne karty",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Ak máte otvorených viac kariet, kliknite na ikonu OneTab na paneli s nástrojmi prehliadača a vaše otvorené karty sa tam objavia.",
+    "message": "Ak máte otvorených viac kariet, kliknite na ikonu DarkTab na paneli s nástrojmi prehliadača a vaše otvorené karty sa tam objavia.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Nasledujúci zoznam URL adries je tiež možné importovať späť do aplikácie OneTab v tomto alebo inom počítači",
+    "message": "Nasledujúci zoznam URL adries je tiež možné importovať späť do aplikácie DarkTab v tomto alebo inom počítači",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Otvorí sa nové okno, pokiaľ aplikácia OneTab tvorí jedinú kartu v aktuálnom okne",
+    "message": "Otvorí sa nové okno, pokiaľ aplikácia DarkTab tvorí jedinú kartu v aktuálnom okne",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Neposielajte pripnuté karty do aplikácie OneTab",
+    "message": "Neposielajte pripnuté karty do aplikácie DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Naďalej môžete manuálne odosielať pripnutú kartu do aplikácie OneTab kliknuním pravého tlačidla na webovú stránku pre prístup do OneTab menu a potom kliknutím na \"Odoslať iba túto kartu do aplikácie OneTab\"",
+    "message": "Naďalej môžete manuálne odosielať pripnutú kartu do aplikácie DarkTab kliknuním pravého tlačidla na webovú stránku pre prístup do DarkTab menu a potom kliknutím na \"Odoslať iba túto kartu do aplikácie DarkTab\"",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Povoliť posielanie pripnutých kariet do aplikácie OneTab",
+    "message": "Povoliť posielanie pripnutých kariet do aplikácie DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Poznámka: Karta sa stáva pripnutou vtedy, keď kliknete pravým tlačidlom na kartu a stlačíte \"Pripnúť kartu\". Niekto chce mať stránky, ako Facebook alebo Gmail zopnuté dokopy, čo umožní ich rýchle vyhľadanie. Aplikácia OneTab si bude pamätať, či bola karta pripnutá pri jej obnovení.",
+    "message": "Poznámka: Karta sa stáva pripnutou vtedy, keď kliknete pravým tlačidlom na kartu a stlačíte \"Pripnúť kartu\". Niekto chce mať stránky, ako Facebook alebo Gmail zopnuté dokopy, čo umožní ich rýchle vyhľadanie. Aplikácia DarkTab si bude pamätať, či bola karta pripnutá pri jej obnovení.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Zobraziť aplikáciu OneTab pri každom prvom spustení webového prehliadača",
+    "message": "Zobraziť aplikáciu DarkTab pri každom prvom spustení webového prehliadača",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Neotvárať aplikáciu OneTab automaticky",
+    "message": "Neotvárať aplikáciu DarkTab automaticky",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Ak chcete otvoriť aplikáciu OneTab manuálne, kliknite pravým tlačidlom na menu a zvoľte \"Zobraziť aplikáciu OneTab\"",
+    "message": "Ak chcete otvoriť aplikáciu DarkTab manuálne, kliknite pravým tlačidlom na menu a zvoľte \"Zobraziť aplikáciu DarkTab\"",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Otvorte kartu(y) a odstráňte ich z vášho OneTab zoznamu",
+    "message": "Otvorte kartu(y) a odstráňte ich z vášho DarkTab zoznamu",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Stále môžete obnoviť kartu(y) stlačením na ctrl, cmd alebo shift a vyhnúť sa ich vymazaniu z aplikácie OneTab. Ak nastavíte niektoré skupiny kariet ako \"zablokované\", nebude ich možné vymazať z aplikácie OneTab bez predchádzajúceho odblokovania danej skupiny kariet.",
+    "message": "Stále môžete obnoviť kartu(y) stlačením na ctrl, cmd alebo shift a vyhnúť sa ich vymazaniu z aplikácie DarkTab. Ak nastavíte niektoré skupiny kariet ako \"zablokované\", nebude ich možné vymazať z aplikácie DarkTab bez predchádzajúceho odblokovania danej skupiny kariet.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Uchovávať ich vo svojom OneTab zozname",
+    "message": "Uchovávať ich vo svojom DarkTab zozname",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "URL adresa, ktorá sa už nachádza v aplikácii OneTab, nebude znova pridaná do zoznamu. Platí to iba vtedy, ak kliknete na ikonu aplikácie OneTab alebo kliknete pravým tlačidlom na menu a pošlete viac kariet do aplikácie OneTab. Ak kliknete pravým tlačidlom na OneTab menu, pošlete do aplikácie iba konkrétnu kartu, vtedy bude povolená jej kópia.",
+    "message": "URL adresa, ktorá sa už nachádza v aplikácii DarkTab, nebude znova pridaná do zoznamu. Platí to iba vtedy, ak kliknete na ikonu aplikácie OneTab alebo kliknete pravým tlačidlom na menu a pošlete viac kariet do aplikácie OneTab. Ak kliknete pravým tlačidlom na OneTab menu, pošlete do aplikácie iba konkrétnu kartu, vtedy bude povolená jej kópia.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Vylúčiť \"DOMAIN.COM\" z aplikácie OneTab",
+    "message": "Vylúčiť \"DOMAIN.COM\" z aplikácie DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Vylúčiť túto webovú stránku z aplikácie OneTab",
+    "message": "Vylúčiť túto webovú stránku z aplikácie DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Odoslať všetky karty do aplikácie OneTab",
+    "message": "Odoslať všetky karty do aplikácie DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Poslať tento odkaz na stránku do aplikácie OneTab",
+    "message": "Poslať tento odkaz na stránku do aplikácie DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Poslať iba túto kartu do aplikácie OneTab",
+    "message": "Poslať iba túto kartu do aplikácie DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Poslať všetky karty, okrem tejto karty, do aplikácie OneTab",
+    "message": "Poslať všetky karty, okrem tejto karty, do aplikácie DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Poslať karty naľavo do aplikácie OneTab",
+    "message": "Poslať karty naľavo do aplikácie DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Poslať karty napravo do aplikácie OneTab",
+    "message": "Poslať karty napravo do aplikácie DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Poslať všetky karty zo všetkých okien do aplikácie OneTab",
+    "message": "Poslať všetky karty zo všetkých okien do aplikácie DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,15 +328,15 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Pridať aplikáciu OneTab teraz",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Pridať aplikáciu DarkTab teraz",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Nie je potrebné prihlásenie ani registrácia",
     "description": ""
   },
   "OneTabAlsoAvailableForFirefox": {
-    "message": "Aplikácia OneTab je tiež dostupná pre prehliadač Firefox",
+    "message": "Aplikácia DarkTab je tiež dostupná pre prehliadač Firefox",
     "description": ""
   },
   "convertTabsIntoAList": {

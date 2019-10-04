@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Visualizza OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Visualizza DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "scheda",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Invia la scheda corrente a OneTab",
+    "message": "Invia la scheda corrente a DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Porta tutte le schede su OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Porta tutte le schede su DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Non hai ancora nessuna scheda su OneTab",
+    "message": "Non hai ancora nessuna scheda su DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Quando ci sono più schede aperte, fai clic sull'icona OneTab sulla barra degli strumenti del browser per visualizzare le schede aperte in questa posizione.",
+    "message": "Quando ci sono più schede aperte, fai clic sull'icona DarkTab sulla barra degli strumenti del browser per visualizzare le schede aperte in questa posizione.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Il seguente elenco di URL può anche essere reimportato su OneTab su questo o un altro computer",
+    "message": "Il seguente elenco di URL può anche essere reimportato su DarkTab su questo o un altro computer",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Una nuova finestra, a meno che OneTab sia l'unica scheda nella finestra corrente",
+    "message": "Una nuova finestra, a meno che DarkTab sia l'unica scheda nella finestra corrente",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Non inviare le schede bloccate a OneTab",
+    "message": "Non inviare le schede bloccate a DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "È ancora possibile inviare manualmente una scheda bloccata a OneTab, facendo clic con il tasto destro all'interno della pagina web per accedere al menu OneTab, quindi facendo clic su 'Invia solo questa scheda a OneTab'",
+    "message": "È ancora possibile inviare manualmente una scheda bloccata a DarkTab, facendo clic con il tasto destro all'interno della pagina web per accedere al menu DarkTab, quindi facendo clic su 'Invia solo questa scheda a DarkTab'",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Consenti l'invio di schede bloccate a OneTab",
+    "message": "Consenti l'invio di schede bloccate a DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Nota: una scheda viene 'bloccata' quando si fa clic sulla scheda e facendo clic su 'Blocca scheda'. Ad alcune persone piace bloccare siti come Facebook o Gmail in modo che possano facilmente individuarli. Al momento di ripristinare una scheda, OneTab ricorderà se la scheda era bloccata.",
+    "message": "Nota: una scheda viene 'bloccata' quando si fa clic sulla scheda e facendo clic su 'Blocca scheda'. Ad alcune persone piace bloccare siti come Facebook o Gmail in modo che possano facilmente individuarli. Al momento di ripristinare una scheda, DarkTab ricorderà se la scheda era bloccata.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Visualizza OneTab ad ogni primo avvio del browser",
+    "message": "Visualizza DarkTab ad ogni primo avvio del browser",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Non aprire OneTab automaticamente",
+    "message": "Non aprire DarkTab automaticamente",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Per aprire OneTab manualmente, utilizza il menu del tasto destro e scegli 'Mostra OneTab'",
+    "message": "Per aprire DarkTab manualmente, utilizza il menu del tasto destro e scegli 'Mostra DarkTab'",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Apri una o più schede e le rimuovi dall'elenco OneTab",
+    "message": "Apri una o più schede e le rimuovi dall'elenco DarkTab",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Puoi comunque premere CTRL, CDM o passare a ripristinare una o più schede senza rimuoverle da OneTab. Se imposti uno qualsiasi dei tuoi gruppi di schede come 'bloccate', le schede non saranno rimosse da OneTab, a meno che prima non sblocchi quel gruppo di schede.",
+    "message": "Puoi comunque premere CTRL, CDM o passare a ripristinare una o più schede senza rimuoverle da DarkTab. Se imposti uno qualsiasi dei tuoi gruppi di schede come 'bloccate', le schede non saranno rimosse da DarkTab, a meno che prima non sblocchi quel gruppo di schede.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Lasciale nel tuo elenco OneTab",
+    "message": "Lasciale nel tuo elenco DarkTab",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Se OneTab contiene già l'URL di una scheda, non verrà aggiunto di nuovo. Questo vale solo quando si fa clic sull'icona OneTab o si utilizza il menu del tasto destro per inviare più schede a OneTab. Se si utilizza il menu del tasto destro OneTab per inviare solo una scheda specifica a OneTab, sarà consentito creare il duplicato per quella scheda specifica.",
+    "message": "Se DarkTab contiene già l'URL di una scheda, non verrà aggiunto di nuovo. Questo vale solo quando si fa clic sull'icona DarkTab o si utilizza il menu del tasto destro per inviare più schede a DarkTab. Se si utilizza il menu del tasto destro DarkTab per inviare solo una scheda specifica a DarkTab, sarà consentito creare il duplicato per quella scheda specifica.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Escludi DOMAIN.COM da OneTab",
+    "message": "Escludi DOMAIN.COM da DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Escludi questo sito da OneTab",
+    "message": "Escludi questo sito da DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Invia tutte le schede a OneTab",
+    "message": "Invia tutte le schede a DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Invia questo link a OneTab",
+    "message": "Invia questo link a DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Invia solo questa scheda a OneTab",
+    "message": "Invia solo questa scheda a DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Invia tutte le schede ad eccezione di questa scheda a OneTab",
+    "message": "Invia tutte le schede ad eccezione di questa scheda a DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Invia le schede a sinistra a OneTab",
+    "message": "Invia le schede a sinistra a DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Invia le schede a destra a OneTab",
+    "message": "Invia le schede a destra a DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Invia tutte le schede da tutte le finestre a OneTab",
+    "message": "Invia tutte le schede da tutte le finestre a DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Aggiungi subito OneTab",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Aggiungi subito DarkTab",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Non è richiesta la registrazione o l'iscrizione",

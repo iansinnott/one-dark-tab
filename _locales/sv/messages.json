@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
-    "message": "Visa OneTab",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "message": "Visa DarkTab",
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "flik",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Skicka den aktuella fliken till OneTab",
+    "message": "Skicka den aktuella fliken till DarkTab",
     "description": ""
   },
   "restoreAll": {
@@ -80,11 +80,11 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Tar alla flikar till OneTab",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Tar alla flikar till DarkTab",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
-    "message": "Du har ännu inte några flikar i OneTab",
+    "message": "Du har ännu inte några flikar i DarkTab",
     "description": ""
   },
   "exportImportUrls": {
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "När du har flera flikar öppna klickar du på OneTab-ikonen i webbläsarens verktygsfält, så visas dina öppna flikar här.",
+    "message": "När du har flera flikar öppna klickar du på DarkTab-ikonen i webbläsarens verktygsfält, så visas dina öppna flikar här.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Följande lista över webbadresser kan också importeras tillbaka till OneTab på denna eller en annan dator",
+    "message": "Följande lista över webbadresser kan också importeras tillbaka till DarkTab på denna eller en annan dator",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -160,7 +160,7 @@
     "description": "This is a heading that will be followed by text options like: 'Always a new window'"
   },
   "optionTabGroupRestoreNewWindow": {
-    "message": "Ett nytt fönster, såvida inte OneTab är den enda fliken i det aktuella fönstret",
+    "message": "Ett nytt fönster, såvida inte DarkTab är den enda fliken i det aktuella fönstret",
     "description": ""
   },
   "optionTabGroupRestoreNewWindowAlways": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "Skicka inte fästa flikar till OneTab",
+    "message": "Skicka inte fästa flikar till DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Det går fortfarande att skicka en fäst flik manuellt till OneTab genom att högerklicka på webbsidan för att öppna OneTab-menyn, och sedan klicka på ”Skicka bara denna flik till OneTab”",
+    "message": "Det går fortfarande att skicka en fäst flik manuellt till DarkTab genom att högerklicka på webbsidan för att öppna DarkTab-menyn, och sedan klicka på ”Skicka bara denna flik till DarkTab”",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "Tillåt fästa flikar att skickas till OneTab",
+    "message": "Tillåt fästa flikar att skickas till DarkTab",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Obs: En flik blir ”fäst” när du högerklickar på fliken och klickar på ”Fäst flik”. En del tycker om att fästa sidor som Facebook eller Gmail, så att de är lätta att hitta. OneTab kommer ihåg om en flik var fäst när du återställer den.",
+    "message": "Obs: En flik blir ”fäst” när du högerklickar på fliken och klickar på ”Fäst flik”. En del tycker om att fästa sidor som Facebook eller Gmail, så att de är lätta att hitta. DarkTab kommer ihåg om en flik var fäst när du återställer den.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,15 +196,15 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Visa OneTab när du startar webbläsaren för första gången",
+    "message": "Visa DarkTab när du startar webbläsaren för första gången",
     "description": ""
   },
   "optionStartupLaunchNone": {
-    "message": "Öppna inte OneTab automatiskt",
+    "message": "Öppna inte DarkTab automatiskt",
     "description": ""
   },
   "optionStartupLaunchNoneDesc": {
-    "message": "Om du vill öppna OneTab manuellt väljer du ”Visa OneTab” i högerklicksmenyn",
+    "message": "Om du vill öppna DarkTab manuellt väljer du ”Visa DarkTab” i högerklicksmenyn",
     "description": ""
   },
   "optionRestoreRemovalTitle": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Öppna flikarna och ta bort dem från din OneTab-lista",
+    "message": "Öppna flikarna och ta bort dem från din DarkTab-lista",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Det går fortfarande att trycka på ctrl, cmd eller shift för att återställa flikarna utan att ta bort dem från OneTab. Om du anger någon av dina flikgrupper som ”låst” tas flikarna inte bort från OneTab, om du inte låser upp flikgruppen först.",
+    "message": "Det går fortfarande att trycka på ctrl, cmd eller shift för att återställa flikarna utan att ta bort dem från DarkTab. Om du anger någon av dina flikgrupper som ”låst” tas flikarna inte bort från DarkTab, om du inte låser upp flikgruppen först.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Ha dem i din OneTab-lista",
+    "message": "Ha dem i din DarkTab-lista",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "Om OneTab redan innehåller webbadressen till en flik läggs den inte till igen. Detta gäller endast när du klickar på OneTab-ikonen eller använder högerklicksmenyn för att skicka flera flikar till OneTab. Om du använder OneTabs högerklicksmeny för att skicka en specifik flik till OneTab tillåts dubbletten för den specifika fliken.",
+    "message": "Om DarkTab redan innehåller webbadressen till en flik läggs den inte till igen. Detta gäller endast när du klickar på DarkTab-ikonen eller använder högerklicksmenyn för att skicka flera flikar till DarkTab. Om du använder DarkTabs högerklicksmeny för att skicka en specifik flik till DarkTab tillåts dubbletten för den specifika fliken.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "Uteslut DOMAIN.COM från OneTab",
+    "message": "Uteslut DOMAIN.COM från DarkTab",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Uteslut denna webbplats från OneTab",
+    "message": "Uteslut denna webbplats från DarkTab",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Skicka alla flikar till OneTab",
+    "message": "Skicka alla flikar till DarkTab",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Skicka denna webblänk till OneTab",
+    "message": "Skicka denna webblänk till DarkTab",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Skicka bara denna flik till OneTab",
+    "message": "Skicka bara denna flik till DarkTab",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Skicka alla flikar utom denna till OneTab",
+    "message": "Skicka alla flikar utom denna till DarkTab",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Skicka flikar till vänster till OneTab",
+    "message": "Skicka flikar till vänster till DarkTab",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Skicka flikar till höger till OneTab",
+    "message": "Skicka flikar till höger till DarkTab",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Skicka alla flikar från alla fönster till OneTab",
+    "message": "Skicka alla flikar från alla fönster till DarkTab",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Hämta OneTab nu",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Hämta DarkTab nu",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Ingen registrering krävs",

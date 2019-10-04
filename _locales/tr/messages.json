@@ -1,7 +1,7 @@
 {
   "displayOneTab": {
     "message": "OneTab'ı görüntüle",
-    "description": "Displays the OneTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
+    "description": "Displays the DarkTab software. IMPORTANT: 'OneTab' is the name of the software application, so the word 'OneTab' should not be translated."
   },
   "tab": {
     "message": "sekme",
@@ -12,7 +12,7 @@
     "description": "The description of the software. Note that 'tab' refers to web browser tabs."
   },
   "sendCurrentTabToOneTab": {
-    "message": "Mevcut sekmeyi OneTab'e yolla",
+    "message": "Mevcut sekmeyi DarkTab'e yolla",
     "description": ""
   },
   "restoreAll": {
@@ -80,8 +80,8 @@
     "description": "gives the user help information"
   },
   "bringAllTabsIntoOneTab": {
-    "message": "Tüm sekmeleri OneTab'e getir",
-    "description": "Takes all of the user's web browser tabs and stores them into the OneTab software"
+    "message": "Tüm sekmeleri DarkTab'e getir",
+    "description": "Takes all of the user's web browser tabs and stores them into the DarkTab software"
   },
   "noTabsInOneTabYet": {
     "message": "OneTab'de henüz bir sekme bulunmuyor.",
@@ -128,7 +128,7 @@
     "description": "Displays a page where feedback can be given about the software"
   },
   "emptyOneTabInfoMsg": {
-    "message": "Açık birçok sekmeniz olduğunda, tarayıcı çubuğunuzdaki OneTab simgesine tıklarsanız açık sekmeleriniz burada görünecektir.",
+    "message": "Açık birçok sekmeniz olduğunda, tarayıcı çubuğunuzdaki DarkTab simgesine tıklarsanız açık sekmeleriniz burada görünecektir.",
     "description": ""
   },
   "total0Tabs": {
@@ -152,7 +152,7 @@
     "description": "Indicating a tab count of 2. IMPORTANT that the numeral 2 is used in the translated version, because it may be replaced with a number greater than 2."
   },
   "exportThenImportNote": {
-    "message": "Bu bağlantı listesi bu bilgisayarda ya da başka bir bilgisayarda OneTab'e geri yüklenebilir.",
+    "message": "Bu bağlantı listesi bu bilgisayarda ya da başka bir bilgisayarda DarkTab'e geri yüklenebilir.",
     "description": ""
   },
   "optionTabGroupRestoreTitle": {
@@ -176,19 +176,19 @@
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSend": {
-    "message": "İğnelenmiş sekmeleri OneTab'e gönderme",
+    "message": "İğnelenmiş sekmeleri DarkTab'e gönderme",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsDontSendDesc": {
-    "message": "Bir internet sayfasında sağ tıklayıp OneTab menüsüne eriştikten sonra, \"Sadece bu sekmeyi OneTab'e gönder\"e tıklayarak, iğnelenmiş bir sekmeyi OneTab'e gönderebilirsiniz.",
+    "message": "Bir internet sayfasında sağ tıklayıp DarkTab menüsüne eriştikten sonra, \"Sadece bu sekmeyi DarkTab'e gönder\"e tıklayarak, iğnelenmiş bir sekmeyi DarkTab'e gönderebilirsiniz.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsAllow": {
-    "message": "İğnelenmiş sekmelerin OneTab'e gönderilmesine izin ver",
+    "message": "İğnelenmiş sekmelerin DarkTab'e gönderilmesine izin ver",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionPinnedTabsNote": {
-    "message": "Not: Bir sekmeye sağ tıklayıp 'Sekmeyi İğnele'ye tıkladığınızda, o sekme sabitlenmiş olur. Çoğu kişi kolayca erişebilmek için Facebook ya da Gmail gibi siteleri sabitlemeyi tercih eder. OneTab, sekmeyi geri yüklediğinizde o sekmenin sabitlenmiş olup olmadığını hatırlayacaktır.",
+    "message": "Not: Bir sekmeye sağ tıklayıp 'Sekmeyi İğnele'ye tıkladığınızda, o sekme sabitlenmiş olur. Çoğu kişi kolayca erişebilmek için Facebook ya da Gmail gibi siteleri sabitlemeyi tercih eder. DarkTab, sekmeyi geri yüklediğinizde o sekmenin sabitlenmiş olup olmadığını hatırlayacaktır.",
     "description": "Note: Please ensure the word 'pinned' is consistent with the translation used by the Google Chrome web browser to describe pinned tabs"
   },
   "optionStartupLaunchTitle": {
@@ -196,7 +196,7 @@
     "description": "'Startup' refers to when the user's web browser is started for the first time"
   },
   "optionStartupLaunchDisplay": {
-    "message": "Web tarayıcısının ilk kez başlatıldığı her seferde OneTab'i göster",
+    "message": "Web tarayıcısının ilk kez başlatıldığı her seferde DarkTab'i göster",
     "description": ""
   },
   "optionStartupLaunchNone": {
@@ -212,15 +212,15 @@
     "description": ""
   },
   "optionRestoreRemovalDefault": {
-    "message": "Sekme ya da sekmeleri açın ve OneTab listenizden çıkarın",
+    "message": "Sekme ya da sekmeleri açın ve DarkTab listenizden çıkarın",
     "description": ""
   },
   "optionRestoreRemovalDefaultDesc": {
-    "message": "Sekmelerinizi OneTab'den atmadan sekme ya da sekmeleri geri yüklemek için ctrl, cmd ya da shift'e basabilirsiniz. Sekme gruplarınızdan herhangi birini 'kilitli' durumuna getirdiyseniz, sekme grubunun kilidini açmadığınız sürece sekmeler OneTab'den atılmayacaklardır.",
+    "message": "Sekmelerinizi DarkTab'den atmadan sekme ya da sekmeleri geri yüklemek için ctrl, cmd ya da shift'e basabilirsiniz. Sekme gruplarınızdan herhangi birini 'kilitli' durumuna getirdiyseniz, sekme grubunun kilidini açmadığınız sürece sekmeler DarkTab'den atılmayacaklardır.",
     "description": ""
   },
   "optionRestoreRemovalKeep": {
-    "message": "Sekmeleri OneTab listenizde tutun",
+    "message": "Sekmeleri DarkTab listenizde tutun",
     "description": ""
   },
   "optionRestoreRemovalKeepDesc": {
@@ -240,7 +240,7 @@
     "description": ""
   },
   "optionDuplicatesRejectDesc": {
-    "message": "OneTab bu sekmenin bağlantısını zaten içeriyorsa bu bağlantı tekrar eklenmeyecektir. Bu sadece OneTab simgesine tıkladığınızda ya da çok sayıda sekmeyi OneTab'e göndermek için sağ tıklama menüsünü kullandığınızda geçerlidir. Eğer belirli bir sekmeyi OneTab'e göndermek için OneTab sağ tıklama menüsünü kullanırsanız, bu belirli sekme için yinelemeye izin verilecektir.",
+    "message": "OneTab bu sekmenin bağlantısını zaten içeriyorsa bu bağlantı tekrar eklenmeyecektir. Bu sadece DarkTab simgesine tıkladığınızda ya da çok sayıda sekmeyi DarkTab'e göndermek için sağ tıklama menüsünü kullandığınızda geçerlidir. Eğer belirli bir sekmeyi DarkTab'e göndermek için DarkTab sağ tıklama menüsünü kullanırsanız, bu belirli sekme için yinelemeye izin verilecektir.",
     "description": ""
   },
   "namedTabGroups": {
@@ -248,39 +248,39 @@
     "description": "Refers to groups of tabs that the user has assigned a name (i.e. a label)"
   },
   "excludeDomainFromOneTab": {
-    "message": "DOMAIN.COM'u OneTab'e dahil etme",
+    "message": "DOMAIN.COM'u DarkTab'e dahil etme",
     "description": "Note: preserve the text 'DOMAIN.COM' as a placeholder."
   },
   "excludeWebSiteFromOneTab": {
-    "message": "Bu web sitesini OneTab'e dahil etme",
+    "message": "Bu web sitesini DarkTab'e dahil etme",
     "description": ""
   },
   "sendAllTabsToOneTab": {
-    "message": "Tüm sekmeleri OneTab'e gönder",
+    "message": "Tüm sekmeleri DarkTab'e gönder",
     "description": ""
   },
   "sendThisWebLinkToOneTab": {
-    "message": "Bu web bağlantısını OneTab'e gönder",
+    "message": "Bu web bağlantısını DarkTab'e gönder",
     "description": ""
   },
   "sendOnlyThisTabToOneTab": {
-    "message": "Sadece bu sekmeyi OneTab'e gönder",
+    "message": "Sadece bu sekmeyi DarkTab'e gönder",
     "description": ""
   },
   "sendAllTabsExceptThisToOneTab": {
-    "message": "Bu sekme dışındaki tüm sekmeleri OneTab'e gönder",
+    "message": "Bu sekme dışındaki tüm sekmeleri DarkTab'e gönder",
     "description": ""
   },
   "sendLeftTabsToOneTab": {
-    "message": "Soldaki sekmeleri OneTab'e gönder",
+    "message": "Soldaki sekmeleri DarkTab'e gönder",
     "description": ""
   },
   "sendRightTabsToOneTab": {
-    "message": "Sağdaki sekmeleri OneTab'e gönder",
+    "message": "Sağdaki sekmeleri DarkTab'e gönder",
     "description": ""
   },
   "sendAllTabsAllWindowsToOneTab": {
-    "message": "Tüm pencerelerdeki tüm sekmeleri OneTab'e gönder",
+    "message": "Tüm pencerelerdeki tüm sekmeleri DarkTab'e gönder",
     "description": ""
   },
   "sendAllTabsToPlaceholder": {
@@ -328,8 +328,8 @@
     "description": ""
   },
   "addOneTabNow": {
-    "message": "Şimdi OneTab'ı yükleyin",
-    "description": "This means the user can add (install) the OneTab software to their web browser"
+    "message": "Şimdi DarkTab'ı yükleyin",
+    "description": "This means the user can add (install) the DarkTab software to their web browser"
   },
   "noSignupRegistrationRequired": {
     "message": "Üyelik ya da kayıt gerektirmez",
