@@ -2269,16 +2269,4 @@ function cj(o8, U8, L8) {
     }
   }, L8);
 }
-var fX = function() {
-  window['_gaq'] = window['_gaq'] || [];
-  window['_gaq'].push(['_setAccount', 'INVALIDATED']);
-  window['_gaq'].push(['_trackPageview']);
-  var u8 = document.createElement('script');
-  u8['type'] = 'text/javascript';
-  u8['async'] = true;
-  u8['src'] = 'https://ssl.google-analytics.com/ga.js';
-  var z8 = document.getElementsByTagName('script')[0];
-  z8.parentNode.insertBefore(u8, z8);
-};
-fX();
 NX();

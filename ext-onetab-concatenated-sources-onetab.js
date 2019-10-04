@@ -27,18 +27,6 @@ var pX = 'aaa';
 var $X = 'NEW_TRANSACTION';
 W6S = false;
 k6S = true;
-var fX = function() {
-  window['_gaq'] = window['_gaq'] || [];
-  window['_gaq'].push(['_setAccount', 'INVALIDATED']);
-  window['_gaq'].push(['_trackPageview']);
-  var SXS = document.createElement('script');
-  SXS['type'] = 'text/javascript';
-  SXS['async'] = true;
-  SXS['src'] = 'https://ssl.google-analytics.com/ga.js';
-  var uXS = document.getElementsByTagName('script')[0];
-  uXS.parentNode.insertBefore(SXS, uXS);
-};
-fX();
 function YK(wXS, PXS, gXS) {
   if (!PXS) PXS = {};
   var cXS = {};
