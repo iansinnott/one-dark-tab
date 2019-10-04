@@ -1,9 +1,9 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
+  "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
 
-  "name": "OneTab",
+  "name": "OneDarkTab",
   "description": "__MSG_manifestDescription__",
   "version": "1.18",
   "default_locale": "en",
@@ -22,12 +22,16 @@
   "options_page": "options.html",
 
   "icons": {
-      "128": "images/extension-icon128.png",
-      "48": "images/extension-icon48.png",
-      "16": "images/extension-icon16.png"
-   },
+    "128": "images/extension-icon128.png",
+    "48": "images/extension-icon48.png",
+    "16": "images/extension-icon16.png"
+  },
   "permissions": [
-    "tabs", "<all_urls>", "webRequest", "webRequestBlocking", "contextMenus"
+    "tabs",
+    "<all_urls>",
+    "webRequest",
+    "webRequestBlocking",
+    "contextMenus"
   ],
   "browser_action": {
     "default_icon": {
@@ -36,14 +40,13 @@
     }
   },
   "content_scripts": [
-  {
-    "matches": ["http://*/*", "https://*/*"],
-    "js": ["ext-onetab-concatenated-sources-contentscript.js"]
-  }
-],
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["ext-onetab-concatenated-sources-contentscript.js"]
+    }
+  ],
   "background": {
     "scripts": ["ext-onetab-concatenated-sources-background.js"]
   },
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'"
-
 }
