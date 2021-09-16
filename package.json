@@ -1,0 +1,11 @@
+{
+  "name": "one-dark-tab",
+  "packageManager": "yarn@3.0.2",
+  "scripts": {
+    "build": "web-ext build"
+  },
+  "private": true,
+  "dependencies": {
+    "web-ext": "^6.4.0"
+  }
+}

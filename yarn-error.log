@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/ian/.nvm/versions/node/v14.17.6/bin/node /Users/ian/.nvm/versions/node/v14.17.6/bin/yarn init
+
+PATH: 
+  /Users/ian/.nix-profile/bin:/Users/ian/.nix-profile/bin:/Users/ian/.yarn/bin:/Users/ian/.config/yarn/global/node_modules/.bin:/Users/ian/.nvm/versions/node/v14.17.6/bin:/Users/ian/.local/google-cloud-sdk/bin:/Users/ian/.pyenv/shims:/usr/local/opt/sqlite/bin:/Users/ian/.local/bin:/Users/ian/bin/bin:/usr/local/bin:/usr/local/sbin:/usr/local/git/bin:/usr/bin:/usr/sbin:/bin:/sbin:/Users/ian/.nix-profile/bin:/Users/ian/Library/Python/3.7/bin:/Users/ian/Library/Python/3.9/bin:/Users/ian/.cargo/bin:/Users/ian/.cargo/bin:/Users/ian/.emacs.d/bin:/Applications/MEGAcmd.app/Contents/MacOS:/usr/local/opt/openjdk/bin:/Library/Java/JavaVirtualMachines/graalvm/Contents/Home/bin:/Users/ian/go/bin
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  14.17.6
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/ian/.nvm/versions/node/v14.17.6/lib/node_modules/yarn/lib/cli.js:137023:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:910:16)
+      at ReadStream.onkeypress (readline.js:235:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1179:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:290:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
